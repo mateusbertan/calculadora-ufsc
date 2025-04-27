@@ -1,8 +1,8 @@
 /* P = Pontuação do candidato na questão
- * NP = Número de preposições da questão
- * NTPC = Número total de preposições corretas da questão
- * NPC = Número de preposições corretas consideradas corretas pelo candidato
- * NPI = Número de preposições incorretas consideradas corretas pelo candidato
+ * NP = Número de proposições da questão
+ * NTPC = Número total de proposições corretas da questão
+ * NPC = Número de proposições corretas consideradas corretas pelo candidato
+ * NPI = Número de proposições incorretas consideradas corretas pelo candidato
  */
 
 function Calcular() {
