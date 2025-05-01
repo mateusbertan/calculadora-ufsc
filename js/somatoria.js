@@ -5,7 +5,7 @@
  * NPI = Número de proposições incorretas consideradas corretas pelo candidato
  */
 
-function Calcular() {
+function Somatoria() {
     const np = Number(document.getElementById("quantidade").value);
     let soma = Number(document.getElementById("soma").value);
     let gabarito = Number(document.getElementById("gabarito").value);

@@ -5,24 +5,35 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Site simples para calcular a pontuação de uma questão de somatória da UFSC.">
     <title>Somatória UFSC</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="css/somatoria.css">
     <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
-    <script src="script.js"></script>
+    <script src="js/somatoria.js"></script>
 </head>
 <body>
+    <nav>
+        <ul>
+            <li>
+                <a href="/">Somatória</a>
+            </li>
+            <li>
+                <a href="/notafinal.html">Nota Final</a>
+            </li>
+        </ul>
+    </nav>
     <main>
         <section class="title">
-            <h1>Calculadora de Somatória da UFSC</h1>
+            <h1>Calcular Somatória UFSC</h1>
         </section>
         <section class="dados">
-            <form class="form" action="javascript:Calcular()">
+            <form class="form" action="javascript:Somatoria()">
                 <section class="soma">
                     <label for="soma">Soma:</label>
-                    <input type="number" id="soma" name="soma" value="0" min="0" max="99">
+                    <input type="number" id="soma" name="soma" min="1" max="99" maxlength="2" placeholder="Ex.: 38" required oninput="javascript: if (this.value.length > this.maxLength) this.value = this.value.slice(0, this.maxLength);">
                 </section>
                 <section class="gabarito">
                     <label for="gabarito">Gabarito:</label>
-                    <input type="number" id="gabarito" name="gabarito" value="0" min="0" max="99">
+                    <input type="number" id="gabarito" name="gabarito" min="1" max="99" maxlength="2" placeholder="Ex.: 36" required oninput="javascript: if (this.value.length > this.maxLength) this.value = this.value.slice(0, this.maxLength);">
                 </section>
                 <section class="quantidade">
                     <label for="quantidade">Maior proposição:</label>

@@ -4,40 +4,6 @@
  * O CSS foi feito quase inteiramente pelo ChatGPT, devido a minha falta de conhecimento sobre UI/UX
  */
 
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
-
-body {
-    min-height: 100vh;
-    display: flex;
-    flex-direction: column;
-    font-family: 'Roboto', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background: #f0f2f5;
-    color: #333;
-}
-
-/* Main */
-
-main {
-    flex: 1;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    padding: 50px 20px;
-}
-
-/* Title */
-
-.title h1 {
-    text-align: center;
-    font-size: 2.5rem;
-    color: #1a73e8;
-    margin-bottom: 40px;
-}
-
 /* Form */
 
 .dados {
@@ -117,23 +83,4 @@ select:focus {
 
 #pontuacao {
     margin-bottom: 30px;
-}
-
-/* Footer */
-
-footer {
-    background: #1a73e8;
-    color: #ffffff;
-    text-align: center;
-    padding: 15px 0;
-    font-size: 0.9rem;
-}
-
-footer a {
-    color: #ffffff;
-    text-decoration: underline;
-}
-
-footer a:hover {
-    color: #d0e8ff;
 }
