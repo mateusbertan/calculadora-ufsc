@@ -1,0 +1,2802 @@
+[
+    {
+        "curso": 301,
+        "nome": "ADMINISTRAÇÃO - BEL - MATUTINO",
+        "campus": "FLORIANÓPOLIS",
+        "pmc": 194,
+        "pesos": {
+            "pli": 3.0,
+            "sli": 1.0,
+            "mtm": 3.0,
+            "blg": 1.0,
+            "qmc": 1.0,
+            "fsc": 1.0,
+            "chs": 2.0,
+            "rdc": 3.0,
+            "dsc": 2.0
+        },
+        "corte": {
+            "pli": 3.0,
+            "sli": 0.5,
+            "mtm": 2.0,
+            "blg": 0.0,
+            "qmc": 0.0,
+            "fsc": 0.0,
+            "chs": 2.0,
+            "rdc": 3.0,
+            "dsc": 0.0
+        }
+    },
+    {
+        "curso": 316,
+        "nome": "ADMINISTRAÇÃO - BEL - NOTURNO",
+        "campus": "FLORIANÓPOLIS",
+        "pmc": 194,
+        "pesos": {
+            "pli": 3.0,
+            "sli": 1.0,
+            "mtm": 3.0,
+            "blg": 1.0,
+            "qmc": 1.0,
+            "fsc": 1.0,
+            "chs": 2.0,
+            "rdc": 3.0,
+            "dsc": 2.0
+        },
+        "corte": {
+            "pli": 3.0,
+            "sli": 0.5,
+            "mtm": 2.0,
+            "blg": 0.0,
+            "qmc": 0.0,
+            "fsc": 0.0,
+            "chs": 2.0,
+            "rdc": 3.0,
+            "dsc": 0.0
+        }
+    },
+    {
+        "curso": 555,
+        "nome": "AGRONOMIA - BEL - INTEGRAL",
+        "campus": "CURITIBANOS",
+        "pmc": 105,
+        "pesos": {
+            "pli": 1.0,
+            "sli": 1.0,
+            "mtm": 1.0,
+            "blg": 1.0,
+            "qmc": 1.0,
+            "fsc": 1.0,
+            "chs": 1.0,
+            "rdc": 1.5,
+            "dsc": 1.0
+        },
+        "corte": {
+            "pli": 2.0,
+            "sli": 0.5,
+            "mtm": 0.5,
+            "blg": 0.5,
+            "qmc": 0.5,
+            "fsc": 0.5,
+            "chs": 2.0,
+            "rdc": 3.0,
+            "dsc": 0.0
+        }
+    },
+    {
+        "curso": 501,
+        "nome": "AGRONOMIA - BEL - INTEGRAL",
+        "campus": "FLORIANÓPOLIS",
+        "pmc": 125,
+        "pesos": {
+            "pli": 1.0,
+            "sli": 1.0,
+            "mtm": 1.5,
+            "blg": 1.5,
+            "qmc": 1.0,
+            "fsc": 1.0,
+            "chs": 1.0,
+            "rdc": 1.5,
+            "dsc": 2.0
+        },
+        "corte": {
+            "pli": 2.0,
+            "sli": 0.5,
+            "mtm": 0.5,
+            "blg": 0.5,
+            "qmc": 0.5,
+            "fsc": 0.5,
+            "chs": 0.5,
+            "rdc": 2.0,
+            "dsc": 0.0
+        }
+    },
+    {
+        "curso": 455,
+        "nome": "ANIMAÇÃO - BEL - INTEGRAL",
+        "campus": "FLORIANÓPOLIS",
+        "pmc": 105,
+        "pesos": {
+            "pli": 1.0,
+            "sli": 1.0,
+            "mtm": 1.0,
+            "blg": 1.0,
+            "qmc": 1.0,
+            "fsc": 1.0,
+            "chs": 1.0,
+            "rdc": 1.5,
+            "dsc": 1.0
+        },
+        "corte": {
+            "pli": 3.0,
+            "sli": 0.5,
+            "mtm": 0.5,
+            "blg": 0.5,
+            "qmc": 0.5,
+            "fsc": 0.5,
+            "chs": 2.0,
+            "rdc": 3.0,
+            "dsc": 0.0
+        }
+    },
+    {
+        "curso": 337,
+        "nome": "ANTROPOLOGIA - BEL - VESPERTINO",
+        "campus": "FLORIANÓPOLIS",
+        "pmc": 121,
+        "pesos": {
+            "pli": 1.5,
+            "sli": 1.0,
+            "mtm": 1.0,
+            "blg": 1.0,
+            "qmc": 1.0,
+            "fsc": 1.0,
+            "chs": 1.0,
+            "rdc": 1.5,
+            "dsc": 2.0
+        },
+        "corte": {
+            "pli": 2.5,
+            "sli": 0.5,
+            "mtm": 0.5,
+            "blg": 0.5,
+            "qmc": 0.5,
+            "fsc": 0.5,
+            "chs": 2.0,
+            "rdc": 3.0,
+            "dsc": 0.0
+        }
+    },
+    {
+        "curso": 207,
+        "nome": "ARQUITETURA E URBANISMO - BEL - INTEGRAL",
+        "campus": "FLORIANÓPOLIS",
+        "pmc": 105,
+        "pesos": {
+            "pli": 1.0,
+            "sli": 1.0,
+            "mtm": 1.0,
+            "blg": 1.0,
+            "qmc": 1.0,
+            "fsc": 1.0,
+            "chs": 1.0,
+            "rdc": 1.5,
+            "dsc": 1.0
+        },
+        "corte": {
+            "pli": 3.0,
+            "sli": 0.5,
+            "mtm": 0.5,
+            "blg": 0.5,
+            "qmc": 0.5,
+            "fsc": 0.5,
+            "chs": 2.0,
+            "rdc": 3.0,
+            "dsc": 0.0
+        }
+    },
+    {
+        "curso": 335,
+        "nome": "ARQUIVOLOGIA - BEL - MATUTINO",
+        "campus": "FLORIANÓPOLIS",
+        "pmc": 105,
+        "pesos": {
+            "pli": 1.0,
+            "sli": 1.0,
+            "mtm": 1.0,
+            "blg": 1.0,
+            "qmc": 1.0,
+            "fsc": 1.0,
+            "chs": 1.0,
+            "rdc": 1.5,
+            "dsc": 1.0
+        },
+        "corte": {
+            "pli": 2.0,
+            "sli": 0.5,
+            "mtm": 0.5,
+            "blg": 0.5,
+            "qmc": 0.5,
+            "fsc": 0.5,
+            "chs": 2.0,
+            "rdc": 3.0,
+            "dsc": 0.0
+        }
+    },
+    {
+        "curso": 451,
+        "nome": "ARTES CÊNICAS - BEL - NOTURNO",
+        "campus": "FLORIANÓPOLIS",
+        "pmc": 105,
+        "pesos": {
+            "pli": 1.0,
+            "sli": 1.0,
+            "mtm": 1.0,
+            "blg": 1.0,
+            "qmc": 1.0,
+            "fsc": 1.0,
+            "chs": 1.0,
+            "rdc": 1.5,
+            "dsc": 1.0
+        },
+        "corte": {
+            "pli": 3.0,
+            "sli": 0.5,
+            "mtm": 0.5,
+            "blg": 0.5,
+            "qmc": 0.5,
+            "fsc": 0.5,
+            "chs": 2.0,
+            "rdc": 3.0,
+            "dsc": 0.0
+        }
+    },
+    {
+        "curso": 324,
+        "nome": "BIBLIOTECONOMIA - BEL - NOTURNO",
+        "campus": "FLORIANÓPOLIS",
+        "pmc": 105,
+        "pesos": {
+            "pli": 1.0,
+            "sli": 1.0,
+            "mtm": 1.0,
+            "blg": 1.0,
+            "qmc": 1.0,
+            "fsc": 1.0,
+            "chs": 1.0,
+            "rdc": 1.5,
+            "dsc": 1.0
+        },
+        "corte": {
+            "pli": 2.0,
+            "sli": 0.0,
+            "mtm": 0.0,
+            "blg": 0.0,
+            "qmc": 0.0,
+            "fsc": 0.0,
+            "chs": 2.0,
+            "rdc": 3.0,
+            "dsc": 0.0
+        }
+    },
+    {
+        "curso": 208,
+        "nome": "CIÊNCIA DA COMPUTAÇÃO - BEL - INTEGRAL",
+        "campus": "FLORIANÓPOLIS",
+        "pmc": 145,
+        "pesos": {
+            "pli": 1.0,
+            "sli": 1.0,
+            "mtm": 3.0,
+            "blg": 1.0,
+            "qmc": 1.0,
+            "fsc": 1.0,
+            "chs": 1.0,
+            "rdc": 1.5,
+            "dsc": 3.0
+        },
+        "corte": {
+            "pli": 3.0,
+            "sli": 2.0,
+            "mtm": 3.0,
+            "blg": 1.5,
+            "qmc": 1.5,
+            "fsc": 2.0,
+            "chs": 1.5,
+            "rdc": 3.0,
+            "dsc": 0.0
+        }
+    },
+    {
+        "curso": 342,
+        "nome": "CIÊNCIA DA INFORMAÇÃO - BEL - INTEGRAL",
+        "campus": "FLORIANÓPOLIS",
+        "pmc": 110,
+        "pesos": {
+            "pli": 1.0,
+            "sli": 1.0,
+            "mtm": 2.0,
+            "blg": 1.0,
+            "qmc": 1.0,
+            "fsc": 1.0,
+            "chs": 1.0,
+            "rdc": 1.0,
+            "dsc": 1.0
+        },
+        "corte": {
+            "pli": 3.0,
+            "sli": 3.0,
+            "mtm": 0.5,
+            "blg": 0.5,
+            "qmc": 0.5,
+            "fsc": 0.5,
+            "chs": 3.0,
+            "rdc": 3.0,
+            "dsc": 0.0
+        }
+    },
+    {
+        "curso": 601,
+        "nome": "CIÊNCIA E TECNOLOGIA - BEL - INTEGRAL",
+        "campus": "JOINVILLE",
+        "pmc": 100,
+        "pesos": {
+            "pli": 1.0,
+            "sli": 1.0,
+            "mtm": 1.0,
+            "blg": 1.0,
+            "qmc": 1.0,
+            "fsc": 1.0,
+            "chs": 1.0,
+            "rdc": 1.0,
+            "dsc": 1.0
+        },
+        "corte": {
+            "pli": 1.0,
+            "sli": 1.0,
+            "mtm": 1.0,
+            "blg": 0.5,
+            "qmc": 1.0,
+            "fsc": 1.0,
+            "chs": 1.0,
+            "rdc": 1.0,
+            "dsc": 0.0
+        }
+    },
+    {
+        "curso": 503,
+        "nome": "CIÊNCIA E TECNOLOGIA DE ALIMENTOS - BEL - INTEGRAL",
+        "campus": "FLORIANÓPOLIS",
+        "pmc": 100,
+        "pesos": {
+            "pli": 1.0,
+            "sli": 1.0,
+            "mtm": 1.0,
+            "blg": 1.0,
+            "qmc": 1.0,
+            "fsc": 1.0,
+            "chs": 1.0,
+            "rdc": 1.0,
+            "dsc": 1.0
+        },
+        "corte": {
+            "pli": 2.0,
+            "sli": 0.5,
+            "mtm": 0.2,
+            "blg": 0.2,
+            "qmc": 0.2,
+            "fsc": 0.2,
+            "chs": 2.0,
+            "rdc": 3.0,
+            "dsc": 0.0
+        }
+    },
+    {
+        "curso": 108,
+        "nome": "CIÊNCIAS BIOLÓGICAS - BEL/LIC - INTEGRAL",
+        "campus": "FLORIANÓPOLIS",
+        "pmc": 172,
+        "pesos": {
+            "pli": 2.0,
+            "sli": 1.0,
+            "mtm": 1.0,
+            "blg": 2.0,
+            "qmc": 1.0,
+            "fsc": 1.0,
+            "chs": 2.0,
+            "rdc": 3.0,
+            "dsc": 2.0
+        },
+        "corte": {
+            "pli": 2.0,
+            "sli": 0.5,
+            "mtm": 0.5,
+            "blg": 0.5,
+            "qmc": 0.5,
+            "fsc": 0.5,
+            "chs": 2.0,
+            "rdc": 3.0,
+            "dsc": 0.0
+        }
+    },
+    {
+        "curso": 110,
+        "nome": "CIÊNCIAS BIOLÓGICAS - LIC - NOTURNO",
+        "campus": "FLORIANÓPOLIS",
+        "pmc": 172,
+        "pesos": {
+            "pli": 2.0,
+            "sli": 1.0,
+            "mtm": 1.0,
+            "blg": 2.0,
+            "qmc": 1.0,
+            "fsc": 1.0,
+            "chs": 2.0,
+            "rdc": 3.0,
+            "dsc": 2.0
+        },
+        "corte": {
+            "pli": 2.0,
+            "sli": 0.5,
+            "mtm": 0.5,
+            "blg": 0.5,
+            "qmc": 0.5,
+            "fsc": 0.5,
+            "chs": 2.0,
+            "rdc": 3.0,
+            "dsc": 0.0
+        }
+    },
+    {
+        "curso": 302,
+        "nome": "CIÊNCIAS CONTÁBEIS - BEL - MATUTINO",
+        "campus": "FLORIANÓPOLIS",
+        "pmc": 127,
+        "pesos": {
+            "pli": 2.0,
+            "sli": 1.0,
+            "mtm": 2.0,
+            "blg": 1.0,
+            "qmc": 1.0,
+            "fsc": 1.0,
+            "chs": 1.0,
+            "rdc": 1.5,
+            "dsc": 1.0
+        },
+        "corte": {
+            "pli": 3.0,
+            "sli": 0.5,
+            "mtm": 1.5,
+            "blg": 0.0,
+            "qmc": 0.0,
+            "fsc": 0.0,
+            "chs": 0.0,
+            "rdc": 3.0,
+            "dsc": 0.0
+        }
+    },
+    {
+        "curso": 317,
+        "nome": "CIÊNCIAS CONTÁBEIS - BEL - NOTURNO",
+        "campus": "FLORIANÓPOLIS",
+        "pmc": 127,
+        "pesos": {
+            "pli": 2.0,
+            "sli": 1.0,
+            "mtm": 2.0,
+            "blg": 1.0,
+            "qmc": 1.0,
+            "fsc": 1.0,
+            "chs": 1.0,
+            "rdc": 1.5,
+            "dsc": 1.0
+        },
+        "corte": {
+            "pli": 3.0,
+            "sli": 0.5,
+            "mtm": 1.5,
+            "blg": 0.0,
+            "qmc": 0.0,
+            "fsc": 0.0,
+            "chs": 0.0,
+            "rdc": 3.0,
+            "dsc": 0.0
+        }
+    },
+    {
+        "curso": 304,
+        "nome": "CIÊNCIAS ECONÔMICAS - BEL - MATUTINO",
+        "campus": "FLORIANÓPOLIS",
+        "pmc": 147,
+        "pesos": {
+            "pli": 2.0,
+            "sli": 1.0,
+            "mtm": 2.0,
+            "blg": 1.0,
+            "qmc": 1.0,
+            "fsc": 1.0,
+            "chs": 2.0,
+            "rdc": 1.5,
+            "dsc": 1.0
+        },
+        "corte": {
+            "pli": 3.0,
+            "sli": 0.5,
+            "mtm": 1.0,
+            "blg": 0.0,
+            "qmc": 0.0,
+            "fsc": 0.0,
+            "chs": 0.0,
+            "rdc": 3.0,
+            "dsc": 0.0
+        }
+    },
+    {
+        "curso": 318,
+        "nome": "CIÊNCIAS ECONÔMICAS - BEL - NOTURNO",
+        "campus": "FLORIANÓPOLIS",
+        "pmc": 147,
+        "pesos": {
+            "pli": 2.0,
+            "sli": 1.0,
+            "mtm": 2.0,
+            "blg": 1.0,
+            "qmc": 1.0,
+            "fsc": 1.0,
+            "chs": 2.0,
+            "rdc": 1.5,
+            "dsc": 1.0
+        },
+        "corte": {
+            "pli": 3.0,
+            "sli": 0.5,
+            "mtm": 1.0,
+            "blg": 0.0,
+            "qmc": 0.0,
+            "fsc": 0.0,
+            "chs": 0.0,
+            "rdc": 3.0,
+            "dsc": 0.0
+        }
+    },
+    {
+        "curso": 310,
+        "nome": "CIÊNCIAS SOCIAIS - BEL/LIC - MATUTINO",
+        "campus": "FLORIANÓPOLIS",
+        "pmc": 105,
+        "pesos": {
+            "pli": 1.0,
+            "sli": 1.0,
+            "mtm": 1.0,
+            "blg": 1.0,
+            "qmc": 1.0,
+            "fsc": 1.0,
+            "chs": 1.0,
+            "rdc": 1.5,
+            "dsc": 1.0
+        },
+        "corte": {
+            "pli": 3.0,
+            "sli": 0.5,
+            "mtm": 0.2,
+            "blg": 0.2,
+            "qmc": 0.2,
+            "fsc": 0.2,
+            "chs": 2.0,
+            "rdc": 3.0,
+            "dsc": 0.0
+        }
+    },
+    {
+        "curso": 320,
+        "nome": "CIÊNCIAS SOCIAIS - BEL/LIC - NOTURNO",
+        "campus": "FLORIANÓPOLIS",
+        "pmc": 105,
+        "pesos": {
+            "pli": 1.0,
+            "sli": 1.0,
+            "mtm": 1.0,
+            "blg": 1.0,
+            "qmc": 1.0,
+            "fsc": 1.0,
+            "chs": 1.0,
+            "rdc": 1.5,
+            "dsc": 1.0
+        },
+        "corte": {
+            "pli": 3.0,
+            "sli": 0.5,
+            "mtm": 0.2,
+            "blg": 0.2,
+            "qmc": 0.2,
+            "fsc": 0.2,
+            "chs": 2.0,
+            "rdc": 3.0,
+            "dsc": 0.0
+        }
+    },
+    {
+        "curso": 450,
+        "nome": "CINEMA - BEL - INTEGRAL",
+        "campus": "FLORIANÓPOLIS",
+        "pmc": 105,
+        "pesos": {
+            "pli": 1.0,
+            "sli": 1.0,
+            "mtm": 1.0,
+            "blg": 1.0,
+            "qmc": 1.0,
+            "fsc": 1.0,
+            "chs": 1.0,
+            "rdc": 1.5,
+            "dsc": 1.0
+        },
+        "corte": {
+            "pli": 3.0,
+            "sli": 0.5,
+            "mtm": 0.5,
+            "blg": 0.5,
+            "qmc": 0.5,
+            "fsc": 0.5,
+            "chs": 2.0,
+            "rdc": 3.0,
+            "dsc": 0.0
+        }
+    },
+    {
+        "curso": 454,
+        "nome": "DESIGN - BEL - INTEGRAL",
+        "campus": "FLORIANÓPOLIS",
+        "pmc": 142,
+        "pesos": {
+            "pli": 2.0,
+            "sli": 1.0,
+            "mtm": 1.0,
+            "blg": 1.0,
+            "qmc": 1.0,
+            "fsc": 1.0,
+            "chs": 1.0,
+            "rdc": 3.0,
+            "dsc": 2.0
+        },
+        "corte": {
+            "pli": 3.0,
+            "sli": 0.5,
+            "mtm": 0.5,
+            "blg": 0.5,
+            "qmc": 0.5,
+            "fsc": 0.5,
+            "chs": 2.0,
+            "rdc": 3.0,
+            "dsc": 0.0
+        }
+    },
+    {
+        "curso": 452,
+        "nome": "DESIGN DE PRODUTO - BEL - INTEGRAL",
+        "campus": "FLORIANÓPOLIS",
+        "pmc": 132,
+        "pesos": {
+            "pli": 2.0,
+            "sli": 1.0,
+            "mtm": 1.0,
+            "blg": 1.0,
+            "qmc": 1.0,
+            "fsc": 1.0,
+            "chs": 1.0,
+            "rdc": 3.0,
+            "dsc": 1.0
+        },
+        "corte": {
+            "pli": 3.0,
+            "sli": 0.5,
+            "mtm": 0.5,
+            "blg": 0.5,
+            "qmc": 0.5,
+            "fsc": 0.5,
+            "chs": 2.0,
+            "rdc": 3.0,
+            "dsc": 0.0
+        }
+    },
+    {
+        "curso": 303,
+        "nome": "DIREITO - BEL - MATUTINO",
+        "campus": "FLORIANÓPOLIS",
+        "pmc": 142,
+        "pesos": {
+            "pli": 2.0,
+            "sli": 1.0,
+            "mtm": 1.0,
+            "blg": 1.0,
+            "qmc": 1.0,
+            "fsc": 1.0,
+            "chs": 2.0,
+            "rdc": 2.0,
+            "dsc": 1.0
+        },
+        "corte": {
+            "pli": 3.0,
+            "sli": 0.5,
+            "mtm": 0.5,
+            "blg": 0.5,
+            "qmc": 0.5,
+            "fsc": 0.5,
+            "chs": 2.0,
+            "rdc": 3.0,
+            "dsc": 0.0
+        }
+    },
+    {
+        "curso": 5,
+        "nome": "DIREITO - BEL - NOTURNO",
+        "campus": "FLORIANÓPOLIS",
+        "pmc": 142,
+        "pesos": {
+            "pli": 2.0,
+            "sli": 1.0,
+            "mtm": 1.0,
+            "blg": 1.0,
+            "qmc": 1.0,
+            "fsc": 1.0,
+            "chs": 2.0,
+            "rdc": 2.0,
+            "dsc": 1.0
+        },
+        "corte": {
+            "pli": 3.0,
+            "sli": 0.5,
+            "mtm": 0.5,
+            "blg": 0.5,
+            "qmc": 0.5,
+            "fsc": 0.5,
+            "chs": 2.0,
+            "rdc": 3.0,
+            "dsc": 0.0
+        }
+    },
+    {
+        "curso": 444,
+        "nome": "EDUCAÇÃO FÍSICA - BEL - MATUTINO",
+        "campus": "FLORIANÓPOLIS",
+        "pmc": 105,
+        "pesos": {
+            "pli": 1.0,
+            "sli": 1.0,
+            "mtm": 1.0,
+            "blg": 1.0,
+            "qmc": 1.0,
+            "fsc": 1.0,
+            "chs": 1.0,
+            "rdc": 1.5,
+            "dsc": 1.0
+        },
+        "corte": {
+            "pli": 3.0,
+            "sli": 0.5,
+            "mtm": 0.5,
+            "blg": 0.5,
+            "qmc": 0.5,
+            "fsc": 0.5,
+            "chs": 2.0,
+            "rdc": 3.0,
+            "dsc": 0.0
+        }
+    },
+    {
+        "curso": 404,
+        "nome": "EDUCAÇÃO FÍSICA - LIC - VESPERTINO",
+        "campus": "FLORIANÓPOLIS",
+        "pmc": 105,
+        "pesos": {
+            "pli": 1.0,
+            "sli": 1.0,
+            "mtm": 1.0,
+            "blg": 1.0,
+            "qmc": 1.0,
+            "fsc": 1.0,
+            "chs": 1.0,
+            "rdc": 1.5,
+            "dsc": 1.0
+        },
+        "corte": {
+            "pli": 3.0,
+            "sli": 0.5,
+            "mtm": 0.5,
+            "blg": 0.5,
+            "qmc": 0.5,
+            "fsc": 0.5,
+            "chs": 2.0,
+            "rdc": 3.0,
+            "dsc": 0.0
+        }
+    },
+    {
+        "curso": 101,
+        "nome": "ENFERMAGEM - BEL - INTEGRAL",
+        "campus": "FLORIANÓPOLIS",
+        "pmc": 132,
+        "pesos": {
+            "pli": 2.0,
+            "sli": 1.0,
+            "mtm": 1.0,
+            "blg": 2.0,
+            "qmc": 1.5,
+            "fsc": 1.0,
+            "chs": 1.0,
+            "rdc": 1.5,
+            "dsc": 1.0
+        },
+        "corte": {
+            "pli": 3.0,
+            "sli": 1.0,
+            "mtm": 1.0,
+            "blg": 2.0,
+            "qmc": 1.0,
+            "fsc": 1.0,
+            "chs": 3.0,
+            "rdc": 3.0,
+            "dsc": 0.0
+        }
+    },
+    {
+        "curso": 602,
+        "nome": "ENGENHARIA AEROESPACIAL - BEL - INTEGRAL",
+        "campus": "JOINVILLE",
+        "pmc": 177,
+        "pesos": {
+            "pli": 2.0,
+            "sli": 1.0,
+            "mtm": 4.0,
+            "blg": 1.0,
+            "qmc": 1.0,
+            "fsc": 3.0,
+            "chs": 1.0,
+            "rdc": 1.5,
+            "dsc": 2.0
+        },
+        "corte": {
+            "pli": 3.0,
+            "sli": 1.0,
+            "mtm": 2.0,
+            "blg": 1.0,
+            "qmc": 1.0,
+            "fsc": 2.0,
+            "chs": 1.0,
+            "rdc": 3.0,
+            "dsc": 0.0
+        }
+    },
+    {
+        "curso": 603,
+        "nome": "ENGENHARIA AUTOMOTIVA - BEL - INTEGRAL",
+        "campus": "JOINVILLE",
+        "pmc": 172,
+        "pesos": {
+            "pli": 2.0,
+            "sli": 1.0,
+            "mtm": 4.0,
+            "blg": 1.0,
+            "qmc": 1.0,
+            "fsc": 3.0,
+            "chs": 1.0,
+            "rdc": 2.0,
+            "dsc": 1.0
+        },
+        "corte": {
+            "pli": 2.0,
+            "sli": 1.0,
+            "mtm": 1.5,
+            "blg": 0.0,
+            "qmc": 0.0,
+            "fsc": 1.0,
+            "chs": 1.0,
+            "rdc": 3.0,
+            "dsc": 0.0
+        }
+    },
+    {
+        "curso": 201,
+        "nome": "ENGENHARIA CIVIL - BEL - INTEGRAL",
+        "campus": "FLORIANÓPOLIS",
+        "pmc": 177,
+        "pesos": {
+            "pli": 2.0,
+            "sli": 1.0,
+            "mtm": 4.0,
+            "blg": 1.0,
+            "qmc": 1.0,
+            "fsc": 3.0,
+            "chs": 1.0,
+            "rdc": 1.5,
+            "dsc": 2.0
+        },
+        "corte": {
+            "pli": 3.0,
+            "sli": 1.0,
+            "mtm": 2.0,
+            "blg": 1.0,
+            "qmc": 1.0,
+            "fsc": 2.0,
+            "chs": 1.0,
+            "rdc": 3.0,
+            "dsc": 0.0
+        }
+    },
+    {
+        "curso": 607,
+        "nome": "ENGENHARIA CIVIL DE INFRAESTRUTURA - BEL - INTEGRAL",
+        "campus": "JOINVILLE",
+        "pmc": 137,
+        "pesos": {
+            "pli": 2.0,
+            "sli": 1.0,
+            "mtm": 2.0,
+            "blg": 1.0,
+            "qmc": 1.0,
+            "fsc": 2.0,
+            "chs": 1.0,
+            "rdc": 1.5,
+            "dsc": 1.0
+        },
+        "corte": {
+            "pli": 3.0,
+            "sli": 1.0,
+            "mtm": 1.5,
+            "blg": 0.5,
+            "qmc": 0.7,
+            "fsc": 1.5,
+            "chs": 1.0,
+            "rdc": 3.0,
+            "dsc": 0.0
+        }
+    },
+    {
+        "curso": 215,
+        "nome": "ENGENHARIA DE ALIMENTOS - BEL - INTEGRAL",
+        "campus": "FLORIANÓPOLIS",
+        "pmc": 191,
+        "pesos": {
+            "pli": 2.0,
+            "sli": 1.5,
+            "mtm": 4.0,
+            "blg": 1.0,
+            "qmc": 2.0,
+            "fsc": 3.0,
+            "chs": 1.0,
+            "rdc": 1.5,
+            "dsc": 2.0
+        },
+        "corte": {
+            "pli": 3.0,
+            "sli": 1.0,
+            "mtm": 2.0,
+            "blg": 1.0,
+            "qmc": 1.0,
+            "fsc": 2.0,
+            "chs": 1.0,
+            "rdc": 3.0,
+            "dsc": 0.0
+        }
+    },
+    {
+        "curso": 234,
+        "nome": "ENGENHARIA DE AQUICULTURA - BEL - INTEGRAL",
+        "campus": "FLORIANÓPOLIS",
+        "pmc": 105,
+        "pesos": {
+            "pli": 1.0,
+            "sli": 1.0,
+            "mtm": 1.0,
+            "blg": 1.0,
+            "qmc": 1.0,
+            "fsc": 1.0,
+            "chs": 1.0,
+            "rdc": 1.5,
+            "dsc": 1.0
+        },
+        "corte": {
+            "pli": 2.0,
+            "sli": 0.3,
+            "mtm": 0.5,
+            "blg": 0.5,
+            "qmc": 0.5,
+            "fsc": 0.5,
+            "chs": 2.0,
+            "rdc": 2.0,
+            "dsc": 0.0
+        }
+    },
+    {
+        "curso": 655,
+        "nome": "ENGENHARIA DE COMPUTAÇÃO - BEL - INTEGRAL",
+        "campus": "ARARANGUÁ",
+        "pmc": 177,
+        "pesos": {
+            "pli": 2.0,
+            "sli": 1.0,
+            "mtm": 4.0,
+            "blg": 1.0,
+            "qmc": 1.0,
+            "fsc": 3.0,
+            "chs": 1.0,
+            "rdc": 1.5,
+            "dsc": 2.0
+        },
+        "corte": {
+            "pli": 0.5,
+            "sli": 0.0,
+            "mtm": 0.5,
+            "blg": 0.0,
+            "qmc": 0.0,
+            "fsc": 0.5,
+            "chs": 0.0,
+            "rdc": 0.5,
+            "dsc": 0.0
+        }
+    },
+    {
+        "curso": 754,
+        "nome": "ENGENHARIA DE CONTROLE E AUTOMAÇÃO - BEL - INTEGRAL",
+        "campus": "BLUMENAU",
+        "pmc": 177,
+        "pesos": {
+            "pli": 2.0,
+            "sli": 1.0,
+            "mtm": 4.0,
+            "blg": 1.0,
+            "qmc": 1.0,
+            "fsc": 3.0,
+            "chs": 1.0,
+            "rdc": 1.5,
+            "dsc": 2.0
+        },
+        "corte": {
+            "pli": 3.0,
+            "sli": 1.0,
+            "mtm": 2.0,
+            "blg": 1.0,
+            "qmc": 1.0,
+            "fsc": 2.0,
+            "chs": 1.0,
+            "rdc": 3.0,
+            "dsc": 0.0
+        }
+    },
+    {
+        "curso": 220,
+        "nome": "ENGENHARIA DE CONTROLE E AUTOMAÇÃO - BEL - INTEGRAL",
+        "campus": "FLORIANÓPOLIS",
+        "pmc": 177,
+        "pesos": {
+            "pli": 2.0,
+            "sli": 1.0,
+            "mtm": 4.0,
+            "blg": 1.0,
+            "qmc": 1.0,
+            "fsc": 3.0,
+            "chs": 1.0,
+            "rdc": 1.5,
+            "dsc": 2.0
+        },
+        "corte": {
+            "pli": 3.0,
+            "sli": 1.0,
+            "mtm": 2.0,
+            "blg": 1.0,
+            "qmc": 1.0,
+            "fsc": 2.0,
+            "chs": 1.0,
+            "rdc": 3.0,
+            "dsc": 0.0
+        }
+    },
+    {
+        "curso": 653,
+        "nome": "ENGENHARIA DE ENERGIA - BEL - INTEGRAL",
+        "campus": "ARARANGUÁ",
+        "pmc": 177,
+        "pesos": {
+            "pli": 2.0,
+            "sli": 1.0,
+            "mtm": 4.0,
+            "blg": 1.0,
+            "qmc": 1.0,
+            "fsc": 3.0,
+            "chs": 1.0,
+            "rdc": 1.5,
+            "dsc": 2.0
+        },
+        "corte": {
+            "pli": 0.0,
+            "sli": 0.0,
+            "mtm": 0.0,
+            "blg": 0.0,
+            "qmc": 0.0,
+            "fsc": 0.0,
+            "chs": 0.0,
+            "rdc": 3.0,
+            "dsc": 0.0
+        }
+    },
+    {
+        "curso": 753,
+        "nome": "ENGENHARIA DE MATERIAIS - BEL - INTEGRAL",
+        "campus": "BLUMENAU",
+        "pmc": 177,
+        "pesos": {
+            "pli": 2.0,
+            "sli": 1.0,
+            "mtm": 4.0,
+            "blg": 1.0,
+            "qmc": 1.0,
+            "fsc": 3.0,
+            "chs": 1.0,
+            "rdc": 1.5,
+            "dsc": 2.0
+        },
+        "corte": {
+            "pli": 2.0,
+            "sli": 0.5,
+            "mtm": 1.0,
+            "blg": 0.5,
+            "qmc": 0.5,
+            "fsc": 0.5,
+            "chs": 1.0,
+            "rdc": 2.5,
+            "dsc": 0.0
+        }
+    },
+    {
+        "curso": 236,
+        "nome": "ENGENHARIA DE MATERIAIS - BEL - INTEGRAL",
+        "campus": "FLORIANÓPOLIS",
+        "pmc": 177,
+        "pesos": {
+            "pli": 2.0,
+            "sli": 1.0,
+            "mtm": 4.0,
+            "blg": 1.0,
+            "qmc": 1.0,
+            "fsc": 3.0,
+            "chs": 1.0,
+            "rdc": 1.5,
+            "dsc": 2.0
+        },
+        "corte": {
+            "pli": 3.0,
+            "sli": 1.0,
+            "mtm": 2.0,
+            "blg": 1.0,
+            "qmc": 1.0,
+            "fsc": 2.0,
+            "chs": 1.0,
+            "rdc": 3.0,
+            "dsc": 0.0
+        }
+    },
+    {
+        "curso": 237,
+        "nome": "ENGENHARIA DE PRODUÇÃO - BEL - INTEGRAL",
+        "campus": "FLORIANÓPOLIS",
+        "pmc": 177,
+        "pesos": {
+            "pli": 2.0,
+            "sli": 1.0,
+            "mtm": 4.0,
+            "blg": 1.0,
+            "qmc": 1.0,
+            "fsc": 3.0,
+            "chs": 1.0,
+            "rdc": 1.5,
+            "dsc": 2.0
+        },
+        "corte": {
+            "pli": 3.0,
+            "sli": 1.0,
+            "mtm": 2.6,
+            "blg": 1.0,
+            "qmc": 1.0,
+            "fsc": 2.0,
+            "chs": 1.0,
+            "rdc": 3.0,
+            "dsc": 0.0
+        }
+    },
+    {
+        "curso": 608,
+        "nome": "ENGENHARIA DE TRANSPORTES E LOGÍSTICA - BEL - INTEGRAL",
+        "campus": "JOINVILLE",
+        "pmc": 177,
+        "pesos": {
+            "pli": 2.0,
+            "sli": 1.0,
+            "mtm": 4.0,
+            "blg": 1.0,
+            "qmc": 1.0,
+            "fsc": 3.0,
+            "chs": 1.0,
+            "rdc": 1.5,
+            "dsc": 2.0
+        },
+        "corte": {
+            "pli": 3.0,
+            "sli": 1.0,
+            "mtm": 2.0,
+            "blg": 1.0,
+            "qmc": 1.0,
+            "fsc": 2.0,
+            "chs": 1.0,
+            "rdc": 3.0,
+            "dsc": 0.0
+        }
+    },
+    {
+        "curso": 202,
+        "nome": "ENGENHARIA ELÉTRICA - BEL - INTEGRAL",
+        "campus": "FLORIANÓPOLIS",
+        "pmc": 177,
+        "pesos": {
+            "pli": 2.0,
+            "sli": 1.0,
+            "mtm": 4.0,
+            "blg": 1.0,
+            "qmc": 1.0,
+            "fsc": 3.0,
+            "chs": 1.0,
+            "rdc": 1.5,
+            "dsc": 2.0
+        },
+        "corte": {
+            "pli": 3.0,
+            "sli": 1.0,
+            "mtm": 2.0,
+            "blg": 1.0,
+            "qmc": 1.0,
+            "fsc": 2.0,
+            "chs": 1.0,
+            "rdc": 3.0,
+            "dsc": 0.0
+        }
+    },
+    {
+        "curso": 235,
+        "nome": "ENGENHARIA ELETRÔNICA - BEL - INTEGRAL",
+        "campus": "FLORIANÓPOLIS",
+        "pmc": 177,
+        "pesos": {
+            "pli": 2.0,
+            "sli": 1.0,
+            "mtm": 4.0,
+            "blg": 1.0,
+            "qmc": 1.0,
+            "fsc": 3.0,
+            "chs": 1.0,
+            "rdc": 1.5,
+            "dsc": 2.0
+        },
+        "corte": {
+            "pli": 3.0,
+            "sli": 1.0,
+            "mtm": 2.0,
+            "blg": 1.0,
+            "qmc": 1.0,
+            "fsc": 2.0,
+            "chs": 1.0,
+            "rdc": 3.0,
+            "dsc": 0.0
+        }
+    },
+    {
+        "curso": 604,
+        "nome": "ENGENHARIA FERROVIÁRIA E METROVIÁRIA - BEL - INTEGRAL",
+        "campus": "JOINVILLE",
+        "pmc": 172,
+        "pesos": {
+            "pli": 2.0,
+            "sli": 1.0,
+            "mtm": 4.0,
+            "blg": 1.0,
+            "qmc": 1.0,
+            "fsc": 3.0,
+            "chs": 1.0,
+            "rdc": 2.0,
+            "dsc": 1.0
+        },
+        "corte": {
+            "pli": 2.0,
+            "sli": 1.0,
+            "mtm": 1.5,
+            "blg": 0.0,
+            "qmc": 0.0,
+            "fsc": 1.0,
+            "chs": 1.0,
+            "rdc": 2.0,
+            "dsc": 0.0
+        }
+    },
+    {
+        "curso": 553,
+        "nome": "ENGENHARIA FLORESTAL - BEL - INTEGRAL",
+        "campus": "CURITIBANOS",
+        "pmc": 100,
+        "pesos": {
+            "pli": 1.0,
+            "sli": 1.0,
+            "mtm": 1.0,
+            "blg": 1.0,
+            "qmc": 1.0,
+            "fsc": 1.0,
+            "chs": 1.0,
+            "rdc": 1.0,
+            "dsc": 1.0
+        },
+        "corte": {
+            "pli": 1.0,
+            "sli": 0.5,
+            "mtm": 0.5,
+            "blg": 0.5,
+            "qmc": 0.5,
+            "fsc": 0.5,
+            "chs": 0.5,
+            "rdc": 0.1,
+            "dsc": 0.0
+        }
+    },
+    {
+        "curso": 203,
+        "nome": "ENGENHARIA MECÂNICA - BEL - INTEGRAL",
+        "campus": "FLORIANÓPOLIS",
+        "pmc": 182,
+        "pesos": {
+            "pli": 2.0,
+            "sli": 1.0,
+            "mtm": 4.0,
+            "blg": 1.0,
+            "qmc": 1.0,
+            "fsc": 3.0,
+            "chs": 1.0,
+            "rdc": 2.0,
+            "dsc": 2.0
+        },
+        "corte": {
+            "pli": 3.0,
+            "sli": 1.0,
+            "mtm": 2.0,
+            "blg": 0.5,
+            "qmc": 1.0,
+            "fsc": 2.0,
+            "chs": 1.0,
+            "rdc": 3.0,
+            "dsc": 0.0
+        }
+    },
+    {
+        "curso": 605,
+        "nome": "ENGENHARIA MECATRÔNICA - BEL - INTEGRAL",
+        "campus": "JOINVILLE",
+        "pmc": 172,
+        "pesos": {
+            "pli": 2.0,
+            "sli": 1.0,
+            "mtm": 4.0,
+            "blg": 1.0,
+            "qmc": 1.0,
+            "fsc": 3.0,
+            "chs": 1.0,
+            "rdc": 2.0,
+            "dsc": 1.0
+        },
+        "corte": {
+            "pli": 2.0,
+            "sli": 1.0,
+            "mtm": 1.5,
+            "blg": 0.0,
+            "qmc": 0.0,
+            "fsc": 1.0,
+            "chs": 1.0,
+            "rdc": 3.0,
+            "dsc": 0.0
+        }
+    },
+    {
+        "curso": 606,
+        "nome": "ENGENHARIA NAVAL - BEL - INTEGRAL",
+        "campus": "JOINVILLE",
+        "pmc": 142,
+        "pesos": {
+            "pli": 2.0,
+            "sli": 1.0,
+            "mtm": 3.0,
+            "blg": 1.0,
+            "qmc": 1.0,
+            "fsc": 2.0,
+            "chs": 1.0,
+            "rdc": 1.0,
+            "dsc": 1.0
+        },
+        "corte": {
+            "pli": 2.0,
+            "sli": 0.5,
+            "mtm": 2.0,
+            "blg": 0.0,
+            "qmc": 1.0,
+            "fsc": 2.0,
+            "chs": 0.0,
+            "rdc": 3.0,
+            "dsc": 0.0
+        }
+    },
+    {
+        "curso": 216,
+        "nome": "ENGENHARIA QUÍMICA - BEL - INTEGRAL",
+        "campus": "FLORIANÓPOLIS",
+        "pmc": 177,
+        "pesos": {
+            "pli": 2.0,
+            "sli": 1.0,
+            "mtm": 4.0,
+            "blg": 1.0,
+            "qmc": 1.0,
+            "fsc": 3.0,
+            "chs": 1.0,
+            "rdc": 1.5,
+            "dsc": 2.0
+        },
+        "corte": {
+            "pli": 3.0,
+            "sli": 1.0,
+            "mtm": 3.0,
+            "blg": 1.0,
+            "qmc": 1.0,
+            "fsc": 2.0,
+            "chs": 1.0,
+            "rdc": 3.0,
+            "dsc": 0.0
+        }
+    },
+    {
+        "curso": 211,
+        "nome": "ENGENHARIA SANITÁRIA E AMBIENTAL - BEL - INTEGRAL",
+        "campus": "FLORIANÓPOLIS",
+        "pmc": 177,
+        "pesos": {
+            "pli": 2.0,
+            "sli": 1.0,
+            "mtm": 4.0,
+            "blg": 1.0,
+            "qmc": 1.0,
+            "fsc": 3.0,
+            "chs": 1.0,
+            "rdc": 1.5,
+            "dsc": 2.0
+        },
+        "corte": {
+            "pli": 3.0,
+            "sli": 1.0,
+            "mtm": 2.0,
+            "blg": 1.0,
+            "qmc": 1.0,
+            "fsc": 2.0,
+            "chs": 1.0,
+            "rdc": 3.0,
+            "dsc": 0.0
+        }
+    },
+    {
+        "curso": 755,
+        "nome": "ENGENHARIA TÊXTIL - BEL - MATUTINO",
+        "campus": "BLUMENAU",
+        "pmc": 110,
+        "pesos": {
+            "pli": 1.0,
+            "sli": 1.0,
+            "mtm": 1.0,
+            "blg": 1.0,
+            "qmc": 1.0,
+            "fsc": 1.0,
+            "chs": 1.0,
+            "rdc": 2.0,
+            "dsc": 1.0
+        },
+        "corte": {
+            "pli": 2.0,
+            "sli": 1.0,
+            "mtm": 1.0,
+            "blg": 1.0,
+            "qmc": 1.0,
+            "fsc": 1.0,
+            "chs": 1.0,
+            "rdc": 3.0,
+            "dsc": 0.0
+        }
+    },
+    {
+        "curso": 102,
+        "nome": "FARMÁCIA - BEL - INTEGRAL",
+        "campus": "FLORIANÓPOLIS",
+        "pmc": 115,
+        "pesos": {
+            "pli": 1.0,
+            "sli": 1.0,
+            "mtm": 1.0,
+            "blg": 1.5,
+            "qmc": 1.5,
+            "fsc": 1.0,
+            "chs": 1.0,
+            "rdc": 1.5,
+            "dsc": 1.0
+        },
+        "corte": {
+            "pli": 3.0,
+            "sli": 0.5,
+            "mtm": 0.5,
+            "blg": 0.5,
+            "qmc": 0.5,
+            "fsc": 0.5,
+            "chs": 2.0,
+            "rdc": 3.0,
+            "dsc": 0.0
+        }
+    },
+    {
+        "curso": 323,
+        "nome": "FILOSOFIA - BEL - NOTURNO",
+        "campus": "FLORIANÓPOLIS",
+        "pmc": 126,
+        "pesos": {
+            "pli": 1.5,
+            "sli": 1.0,
+            "mtm": 1.0,
+            "blg": 1.0,
+            "qmc": 1.0,
+            "fsc": 1.0,
+            "chs": 1.5,
+            "rdc": 1.5,
+            "dsc": 1.5
+        },
+        "corte": {
+            "pli": 3.0,
+            "sli": 0.5,
+            "mtm": 0.2,
+            "blg": 0.2,
+            "qmc": 0.2,
+            "fsc": 0.2,
+            "chs": 2.0,
+            "rdc": 3.0,
+            "dsc": 0.0
+        }
+    },
+    {
+        "curso": 307,
+        "nome": "FILOSOFIA - LIC - VESPERTINO",
+        "campus": "FLORIANÓPOLIS",
+        "pmc": 126,
+        "pesos": {
+            "pli": 1.5,
+            "sli": 1.0,
+            "mtm": 1.0,
+            "blg": 1.0,
+            "qmc": 1.0,
+            "fsc": 1.0,
+            "chs": 1.5,
+            "rdc": 1.5,
+            "dsc": 1.5
+        },
+        "corte": {
+            "pli": 3.0,
+            "sli": 0.5,
+            "mtm": 0.2,
+            "blg": 0.2,
+            "qmc": 0.2,
+            "fsc": 0.2,
+            "chs": 2.0,
+            "rdc": 3.0,
+            "dsc": 0.0
+        }
+    },
+    {
+        "curso": 2,
+        "nome": "FÍSICA - BEL - INTEGRAL",
+        "campus": "FLORIANÓPOLIS",
+        "pmc": 132,
+        "pesos": {
+            "pli": 2.0,
+            "sli": 1.0,
+            "mtm": 2.0,
+            "blg": 1.0,
+            "qmc": 1.0,
+            "fsc": 2.0,
+            "chs": 1.0,
+            "rdc": 1.0,
+            "dsc": 1.0
+        },
+        "corte": {
+            "pli": 3.0,
+            "sli": 0.5,
+            "mtm": 1.0,
+            "blg": 0.0,
+            "qmc": 0.5,
+            "fsc": 1.0,
+            "chs": 2.0,
+            "rdc": 3.0,
+            "dsc": 0.0
+        }
+    },
+    {
+        "curso": 225,
+        "nome": "FÍSICA - LIC - NOTURNO",
+        "campus": "FLORIANÓPOLIS",
+        "pmc": 132,
+        "pesos": {
+            "pli": 2.0,
+            "sli": 1.0,
+            "mtm": 2.0,
+            "blg": 1.0,
+            "qmc": 1.0,
+            "fsc": 2.0,
+            "chs": 1.0,
+            "rdc": 1.0,
+            "dsc": 1.0
+        },
+        "corte": {
+            "pli": 3.0,
+            "sli": 0.5,
+            "mtm": 0.5,
+            "blg": 0.5,
+            "qmc": 0.5,
+            "fsc": 0.5,
+            "chs": 2.0,
+            "rdc": 3.0,
+            "dsc": 0.0
+        }
+    },
+    {
+        "curso": 654,
+        "nome": "FISIOTERAPIA - BEL - INTEGRAL",
+        "campus": "ARARANGUÁ",
+        "pmc": 167,
+        "pesos": {
+            "pli": 2.0,
+            "sli": 1.0,
+            "mtm": 1.0,
+            "blg": 2.0,
+            "qmc": 1.5,
+            "fsc": 1.5,
+            "chs": 1.0,
+            "rdc": 3.0,
+            "dsc": 2.5
+        },
+        "corte": {
+            "pli": 3.0,
+            "sli": 0.5,
+            "mtm": 0.5,
+            "blg": 0.5,
+            "qmc": 0.5,
+            "fsc": 0.5,
+            "chs": 2.0,
+            "rdc": 3.0,
+            "dsc": 0.0
+        }
+    },
+    {
+        "curso": 109,
+        "nome": "FONOAUDIOLOGIA - BEL - INTEGRAL",
+        "campus": "FLORIANÓPOLIS",
+        "pmc": 105,
+        "pesos": {
+            "pli": 1.0,
+            "sli": 1.0,
+            "mtm": 1.0,
+            "blg": 1.0,
+            "qmc": 1.0,
+            "fsc": 1.0,
+            "chs": 1.0,
+            "rdc": 1.5,
+            "dsc": 1.0
+        },
+        "corte": {
+            "pli": 3.0,
+            "sli": 0.5,
+            "mtm": 0.5,
+            "blg": 0.5,
+            "qmc": 0.5,
+            "fsc": 0.5,
+            "chs": 2.0,
+            "rdc": 3.0,
+            "dsc": 0.0
+        }
+    },
+    {
+        "curso": 331,
+        "nome": "GEOGRAFIA - BEL/LIC - MATUTINO",
+        "campus": "FLORIANÓPOLIS",
+        "pmc": 105,
+        "pesos": {
+            "pli": 1.0,
+            "sli": 1.0,
+            "mtm": 1.0,
+            "blg": 1.0,
+            "qmc": 1.0,
+            "fsc": 1.0,
+            "chs": 1.0,
+            "rdc": 1.5,
+            "dsc": 1.0
+        },
+        "corte": {
+            "pli": 3.0,
+            "sli": 0.5,
+            "mtm": 0.5,
+            "blg": 0.5,
+            "qmc": 0.5,
+            "fsc": 0.5,
+            "chs": 2.0,
+            "rdc": 3.0,
+            "dsc": 0.0
+        }
+    },
+    {
+        "curso": 332,
+        "nome": "GEOGRAFIA - BEL/LIC - NOTURNO",
+        "campus": "FLORIANÓPOLIS",
+        "pmc": 105,
+        "pesos": {
+            "pli": 1.0,
+            "sli": 1.0,
+            "mtm": 1.0,
+            "blg": 1.0,
+            "qmc": 1.0,
+            "fsc": 1.0,
+            "chs": 1.0,
+            "rdc": 1.5,
+            "dsc": 1.0
+        },
+        "corte": {
+            "pli": 3.0,
+            "sli": 0.5,
+            "mtm": 0.5,
+            "blg": 0.5,
+            "qmc": 0.5,
+            "fsc": 0.5,
+            "chs": 2.0,
+            "rdc": 3.0,
+            "dsc": 0.0
+        }
+    },
+    {
+        "curso": 336,
+        "nome": "GEOLOGIA - BEL - INTEGRAL",
+        "campus": "FLORIANÓPOLIS",
+        "pmc": 135,
+        "pesos": {
+            "pli": 1.0,
+            "sli": 1.0,
+            "mtm": 2.0,
+            "blg": 1.0,
+            "qmc": 2.0,
+            "fsc": 2.0,
+            "chs": 1.0,
+            "rdc": 1.5,
+            "dsc": 1.0
+        },
+        "corte": {
+            "pli": 3.0,
+            "sli": 0.5,
+            "mtm": 1.0,
+            "blg": 1.0,
+            "qmc": 1.0,
+            "fsc": 1.0,
+            "chs": 1.0,
+            "rdc": 3.0,
+            "dsc": 0.0
+        }
+    },
+    {
+        "curso": 343,
+        "nome": "HISTÓRIA - ABI - MATUTINO",
+        "campus": "FLORIANÓPOLIS",
+        "pmc": 105,
+        "pesos": {
+            "pli": 1.0,
+            "sli": 1.0,
+            "mtm": 1.0,
+            "blg": 1.0,
+            "qmc": 1.0,
+            "fsc": 1.0,
+            "chs": 1.0,
+            "rdc": 1.5,
+            "dsc": 1.0
+        },
+        "corte": {
+            "pli": 3.0,
+            "sli": 0.5,
+            "mtm": 0.5,
+            "blg": 0.5,
+            "qmc": 0.5,
+            "fsc": 0.5,
+            "chs": 2.0,
+            "rdc": 3.0,
+            "dsc": 0.0
+        }
+    },
+    {
+        "curso": 346,
+        "nome": "HISTÓRIA - ABI - NOTURNO",
+        "campus": "FLORIANÓPOLIS",
+        "pmc": 105,
+        "pesos": {
+            "pli": 1.0,
+            "sli": 1.0,
+            "mtm": 1.0,
+            "blg": 1.0,
+            "qmc": 1.0,
+            "fsc": 1.0,
+            "chs": 1.0,
+            "rdc": 1.5,
+            "dsc": 1.0
+        },
+        "corte": {
+            "pli": 3.0,
+            "sli": 0.5,
+            "mtm": 0.5,
+            "blg": 0.5,
+            "qmc": 0.5,
+            "fsc": 0.5,
+            "chs": 2.0,
+            "rdc": 3.0,
+            "dsc": 0.0
+        }
+    },
+    {
+        "curso": 415,
+        "nome": "JORNALISMO - BEL - INTEGRAL",
+        "campus": "FLORIANÓPOLIS",
+        "pmc": 164,
+        "pesos": {
+            "pli": 3.0,
+            "sli": 1.0,
+            "mtm": 1.0,
+            "blg": 1.0,
+            "qmc": 1.0,
+            "fsc": 1.0,
+            "chs": 2.0,
+            "rdc": 3.0,
+            "dsc": 1.0
+        },
+        "corte": {
+            "pli": 4.0,
+            "sli": 0.5,
+            "mtm": 0.5,
+            "blg": 0.5,
+            "qmc": 0.2,
+            "fsc": 0.2,
+            "chs": 3.0,
+            "rdc": 4.0,
+            "dsc": 0.0
+        }
+    },
+    {
+        "curso": 460,
+        "nome": "LETRAS - ALEMÃO - ABI - VESPERTINO",
+        "campus": "FLORIANÓPOLIS",
+        "pmc": 105,
+        "pesos": {
+            "pli": 1.0,
+            "sli": 1.0,
+            "mtm": 1.0,
+            "blg": 1.0,
+            "qmc": 1.0,
+            "fsc": 1.0,
+            "chs": 1.0,
+            "rdc": 1.5,
+            "dsc": 1.0
+        },
+        "corte": {
+            "pli": 1.0,
+            "sli": 0.5,
+            "mtm": 0.5,
+            "blg": 0.5,
+            "qmc": 0.5,
+            "fsc": 0.5,
+            "chs": 0.5,
+            "rdc": 1.0,
+            "dsc": 0.0
+        }
+    },
+    {
+        "curso": 463,
+        "nome": "LETRAS - ESPANHOL - ABI - MATUTINO",
+        "campus": "FLORIANÓPOLIS",
+        "pmc": 105,
+        "pesos": {
+            "pli": 1.0,
+            "sli": 1.0,
+            "mtm": 1.0,
+            "blg": 1.0,
+            "qmc": 1.0,
+            "fsc": 1.0,
+            "chs": 1.0,
+            "rdc": 1.5,
+            "dsc": 1.0
+        },
+        "corte": {
+            "pli": 3.0,
+            "sli": 0.5,
+            "mtm": 0.2,
+            "blg": 0.2,
+            "qmc": 0.2,
+            "fsc": 0.2,
+            "chs": 2.0,
+            "rdc": 3.0,
+            "dsc": 0.0
+        }
+    },
+    {
+        "curso": 466,
+        "nome": "LETRAS - FRANCÊS - ABI - MATUTINO",
+        "campus": "FLORIANÓPOLIS",
+        "pmc": 105,
+        "pesos": {
+            "pli": 1.0,
+            "sli": 1.0,
+            "mtm": 1.0,
+            "blg": 1.0,
+            "qmc": 1.0,
+            "fsc": 1.0,
+            "chs": 1.0,
+            "rdc": 1.5,
+            "dsc": 1.0
+        },
+        "corte": {
+            "pli": 3.0,
+            "sli": 0.5,
+            "mtm": 0.2,
+            "blg": 0.2,
+            "qmc": 0.2,
+            "fsc": 0.2,
+            "chs": 2.0,
+            "rdc": 3.0,
+            "dsc": 0.0
+        }
+    },
+    {
+        "curso": 469,
+        "nome": "LETRAS - INGLÊS - ABI - VESPERTINO",
+        "campus": "FLORIANÓPOLIS",
+        "pmc": 105,
+        "pesos": {
+            "pli": 1.0,
+            "sli": 1.0,
+            "mtm": 1.0,
+            "blg": 1.0,
+            "qmc": 1.0,
+            "fsc": 1.0,
+            "chs": 1.0,
+            "rdc": 1.5,
+            "dsc": 1.0
+        },
+        "corte": {
+            "pli": 3.0,
+            "sli": 0.5,
+            "mtm": 0.5,
+            "blg": 0.5,
+            "qmc": 0.4,
+            "fsc": 0.4,
+            "chs": 2.0,
+            "rdc": 3.0,
+            "dsc": 0.0
+        }
+    },
+    {
+        "curso": 472,
+        "nome": "LETRAS - ITALIANO - ABI - MATUTINO",
+        "campus": "FLORIANÓPOLIS",
+        "pmc": 105,
+        "pesos": {
+            "pli": 1.0,
+            "sli": 1.0,
+            "mtm": 1.0,
+            "blg": 1.0,
+            "qmc": 1.0,
+            "fsc": 1.0,
+            "chs": 1.0,
+            "rdc": 1.5,
+            "dsc": 1.0
+        },
+        "corte": {
+            "pli": 3.0,
+            "sli": 0.5,
+            "mtm": 0.5,
+            "blg": 0.5,
+            "qmc": 0.5,
+            "fsc": 0.5,
+            "chs": 2.0,
+            "rdc": 3.0,
+            "dsc": 0.0
+        }
+    },
+    {
+        "curso": 428,
+        "nome": "LETRAS - PORTUGUÊS - BEL/LIC - INTEGRAL",
+        "campus": "FLORIANÓPOLIS",
+        "pmc": 186,
+        "pesos": {
+            "pli": 4.0,
+            "sli": 1.0,
+            "mtm": 1.0,
+            "blg": 1.0,
+            "qmc": 1.0,
+            "fsc": 1.0,
+            "chs": 2.0,
+            "rdc": 4.0,
+            "dsc": 1.0
+        },
+        "corte": {
+            "pli": 3.0,
+            "sli": 0.5,
+            "mtm": 0.5,
+            "blg": 0.5,
+            "qmc": 0.5,
+            "fsc": 0.5,
+            "chs": 2.0,
+            "rdc": 3.0,
+            "dsc": 0.0
+        }
+    },
+    {
+        "curso": 426,
+        "nome": "LETRAS - PORTUGUÊS - BEL/LIC - NOTURNO",
+        "campus": "FLORIANÓPOLIS",
+        "pmc": 186,
+        "pesos": {
+            "pli": 4.0,
+            "sli": 1.0,
+            "mtm": 1.0,
+            "blg": 1.0,
+            "qmc": 1.0,
+            "fsc": 1.0,
+            "chs": 2.0,
+            "rdc": 4.0,
+            "dsc": 1.0
+        },
+        "corte": {
+            "pli": 3.0,
+            "sli": 0.5,
+            "mtm": 0.5,
+            "blg": 0.5,
+            "qmc": 0.5,
+            "fsc": 0.5,
+            "chs": 2.0,
+            "rdc": 3.0,
+            "dsc": 0.0
+        }
+    },
+    {
+        "curso": 222,
+        "nome": "MATEMÁTICA - BEL - INTEGRAL",
+        "campus": "FLORIANÓPOLIS",
+        "pmc": 127,
+        "pesos": {
+            "pli": 2.0,
+            "sli": 1.0,
+            "mtm": 2.0,
+            "blg": 1.0,
+            "qmc": 1.0,
+            "fsc": 1.0,
+            "chs": 1.0,
+            "rdc": 1.5,
+            "dsc": 1.0
+        },
+        "corte": {
+            "pli": 3.0,
+            "sli": 0.5,
+            "mtm": 2.0,
+            "blg": 0.0,
+            "qmc": 0.0,
+            "fsc": 0.0,
+            "chs": 0.0,
+            "rdc": 3.0,
+            "dsc": 0.0
+        }
+    },
+    {
+        "curso": 756,
+        "nome": "MATEMÁTICA - LIC - MATUTINO",
+        "campus": "BLUMENAU",
+        "pmc": 110,
+        "pesos": {
+            "pli": 1.0,
+            "sli": 1.0,
+            "mtm": 2.0,
+            "blg": 1.0,
+            "qmc": 1.0,
+            "fsc": 1.0,
+            "chs": 1.0,
+            "rdc": 1.0,
+            "dsc": 1.0
+        },
+        "corte": {
+            "pli": 3.0,
+            "sli": 0.5,
+            "mtm": 0.5,
+            "blg": 0.5,
+            "qmc": 0.5,
+            "fsc": 0.5,
+            "chs": 2.0,
+            "rdc": 3.0,
+            "dsc": 0.0
+        }
+    },
+    {
+        "curso": 223,
+        "nome": "MATEMÁTICA - LIC - MATUTINO",
+        "campus": "FLORIANÓPOLIS",
+        "pmc": 127,
+        "pesos": {
+            "pli": 2.0,
+            "sli": 1.0,
+            "mtm": 2.0,
+            "blg": 1.0,
+            "qmc": 1.0,
+            "fsc": 1.0,
+            "chs": 1.0,
+            "rdc": 1.5,
+            "dsc": 1.0
+        },
+        "corte": {
+            "pli": 3.0,
+            "sli": 0.5,
+            "mtm": 2.0,
+            "blg": 0.0,
+            "qmc": 0.0,
+            "fsc": 0.0,
+            "chs": 0.0,
+            "rdc": 3.0,
+            "dsc": 0.0
+        }
+    },
+    {
+        "curso": 751,
+        "nome": "MATEMÁTICA - LIC - NOTURNO",
+        "campus": "BLUMENAU",
+        "pmc": 110,
+        "pesos": {
+            "pli": 1.0,
+            "sli": 1.0,
+            "mtm": 2.0,
+            "blg": 1.0,
+            "qmc": 1.0,
+            "fsc": 1.0,
+            "chs": 1.0,
+            "rdc": 1.0,
+            "dsc": 1.0
+        },
+        "corte": {
+            "pli": 3.0,
+            "sli": 0.5,
+            "mtm": 0.5,
+            "blg": 0.5,
+            "qmc": 0.5,
+            "fsc": 0.5,
+            "chs": 2.0,
+            "rdc": 3.0,
+            "dsc": 0.0
+        }
+    },
+    {
+        "curso": 656,
+        "nome": "MEDICINA - BEL - INTEGRAL",
+        "campus": "ARARANGUÁ",
+        "pmc": 105,
+        "pesos": {
+            "pli": 1.0,
+            "sli": 1.0,
+            "mtm": 1.0,
+            "blg": 1.0,
+            "qmc": 1.0,
+            "fsc": 1.0,
+            "chs": 1.0,
+            "rdc": 1.5,
+            "dsc": 1.0
+        },
+        "corte": {
+            "pli": 3.0,
+            "sli": 0.5,
+            "mtm": 0.5,
+            "blg": 0.5,
+            "qmc": 0.5,
+            "fsc": 0.5,
+            "chs": 2.0,
+            "rdc": 3.0,
+            "dsc": 0.0
+        }
+    },
+    {
+        "curso": 556,
+        "nome": "MEDICINA - BEL - INTEGRAL",
+        "campus": "CURITIBANOS",
+        "pmc": 105,
+        "pesos": {
+            "pli": 1.0,
+            "sli": 1.0,
+            "mtm": 1.0,
+            "blg": 1.0,
+            "qmc": 1.0,
+            "fsc": 1.0,
+            "chs": 1.0,
+            "rdc": 1.5,
+            "dsc": 1.0
+        },
+        "corte": {
+            "pli": 3.0,
+            "sli": 0.5,
+            "mtm": 0.5,
+            "blg": 0.5,
+            "qmc": 0.5,
+            "fsc": 0.5,
+            "chs": 2.0,
+            "rdc": 3.0,
+            "dsc": 0.0
+        }
+    },
+    {
+        "curso": 103,
+        "nome": "MEDICINA - BEL - INTEGRAL",
+        "campus": "FLORIANÓPOLIS",
+        "pmc": 105,
+        "pesos": {
+            "pli": 1.0,
+            "sli": 1.0,
+            "mtm": 1.0,
+            "blg": 1.0,
+            "qmc": 1.0,
+            "fsc": 1.0,
+            "chs": 1.0,
+            "rdc": 1.5,
+            "dsc": 1.0
+        },
+        "corte": {
+            "pli": 3.0,
+            "sli": 0.5,
+            "mtm": 0.5,
+            "blg": 0.5,
+            "qmc": 0.5,
+            "fsc": 0.5,
+            "chs": 2.0,
+            "rdc": 3.0,
+            "dsc": 0.0
+        }
+    },
+    {
+        "curso": 552,
+        "nome": "MEDICINA VETERINÁRIA - BEL - INTEGRAL",
+        "campus": "CURITIBANOS",
+        "pmc": 125,
+        "pesos": {
+            "pli": 1.0,
+            "sli": 1.0,
+            "mtm": 1.5,
+            "blg": 1.5,
+            "qmc": 1.0,
+            "fsc": 1.0,
+            "chs": 1.0,
+            "rdc": 1.5,
+            "dsc": 2.0
+        },
+        "corte": {
+            "pli": 3.0,
+            "sli": 0.5,
+            "mtm": 1.0,
+            "blg": 2.0,
+            "qmc": 2.0,
+            "fsc": 1.0,
+            "chs": 2.0,
+            "rdc": 3.0,
+            "dsc": 0.0
+        }
+    },
+    {
+        "curso": 230,
+        "nome": "METEOROLOGIA - BEL - INTEGRAL",
+        "campus": "FLORIANÓPOLIS",
+        "pmc": 110,
+        "pesos": {
+            "pli": 1.0,
+            "sli": 1.0,
+            "mtm": 1.0,
+            "blg": 1.0,
+            "qmc": 1.0,
+            "fsc": 1.0,
+            "chs": 1.0,
+            "rdc": 2.0,
+            "dsc": 1.0
+        },
+        "corte": {
+            "pli": 2.5,
+            "sli": 0.5,
+            "mtm": 1.0,
+            "blg": 0.5,
+            "qmc": 1.0,
+            "fsc": 1.0,
+            "chs": 2.0,
+            "rdc": 3.0,
+            "dsc": 0.0
+        }
+    },
+    {
+        "curso": 338,
+        "nome": "MUSEOLOGIA - BEL - INTEGRAL",
+        "campus": "FLORIANÓPOLIS",
+        "pmc": 105,
+        "pesos": {
+            "pli": 1.0,
+            "sli": 1.0,
+            "mtm": 1.0,
+            "blg": 1.0,
+            "qmc": 1.0,
+            "fsc": 1.0,
+            "chs": 1.0,
+            "rdc": 1.5,
+            "dsc": 1.0
+        },
+        "corte": {
+            "pli": 3.0,
+            "sli": 0.5,
+            "mtm": 0.5,
+            "blg": 0.5,
+            "qmc": 0.5,
+            "fsc": 0.5,
+            "chs": 2.0,
+            "rdc": 3.0,
+            "dsc": 0.0
+        }
+    },
+    {
+        "curso": 9,
+        "nome": "NUTRIÇÃO - BEL - INTEGRAL",
+        "campus": "FLORIANÓPOLIS",
+        "pmc": 110,
+        "pesos": {
+            "pli": 1.0,
+            "sli": 1.0,
+            "mtm": 1.0,
+            "blg": 1.0,
+            "qmc": 1.0,
+            "fsc": 1.0,
+            "chs": 1.0,
+            "rdc": 2.0,
+            "dsc": 1.0
+        },
+        "corte": {
+            "pli": 3.0,
+            "sli": 0.5,
+            "mtm": 0.5,
+            "blg": 0.5,
+            "qmc": 0.5,
+            "fsc": 0.5,
+            "chs": 2.0,
+            "rdc": 3.0,
+            "dsc": 0.0
+        }
+    },
+    {
+        "curso": 333,
+        "nome": "OCEANOGRAFIA - BEL - INTEGRAL",
+        "campus": "FLORIANÓPOLIS",
+        "pmc": 194,
+        "pesos": {
+            "pli": 3.0,
+            "sli": 1.0,
+            "mtm": 3.0,
+            "blg": 2.0,
+            "qmc": 2.0,
+            "fsc": 2.0,
+            "chs": 1.0,
+            "rdc": 3.0,
+            "dsc": 1.0
+        },
+        "corte": {
+            "pli": 1.0,
+            "sli": 0.5,
+            "mtm": 1.0,
+            "blg": 0.5,
+            "qmc": 0.2,
+            "fsc": 0.2,
+            "chs": 1.0,
+            "rdc": 3.0,
+            "dsc": 0.0
+        }
+    },
+    {
+        "curso": 104,
+        "nome": "ODONTOLOGIA - BEL - INTEGRAL",
+        "campus": "FLORIANÓPOLIS",
+        "pmc": 105,
+        "pesos": {
+            "pli": 1.0,
+            "sli": 1.0,
+            "mtm": 1.0,
+            "blg": 1.0,
+            "qmc": 1.0,
+            "fsc": 1.0,
+            "chs": 1.0,
+            "rdc": 1.5,
+            "dsc": 1.0
+        },
+        "corte": {
+            "pli": 3.5,
+            "sli": 1.0,
+            "mtm": 0.5,
+            "blg": 0.5,
+            "qmc": 0.5,
+            "fsc": 0.5,
+            "chs": 2.0,
+            "rdc": 3.0,
+            "dsc": 0.0
+        }
+    },
+    {
+        "curso": 308,
+        "nome": "PEDAGOGIA - LIC - VESPERTINO",
+        "campus": "FLORIANÓPOLIS",
+        "pmc": 105,
+        "pesos": {
+            "pli": 1.0,
+            "sli": 1.0,
+            "mtm": 1.0,
+            "blg": 1.0,
+            "qmc": 1.0,
+            "fsc": 1.0,
+            "chs": 1.0,
+            "rdc": 1.5,
+            "dsc": 1.0
+        },
+        "corte": {
+            "pli": 3.0,
+            "sli": 0.5,
+            "mtm": 0.4,
+            "blg": 0.4,
+            "qmc": 0.4,
+            "fsc": 0.4,
+            "chs": 2.0,
+            "rdc": 3.0,
+            "dsc": 0.0
+        }
+    },
+    {
+        "curso": 319,
+        "nome": "PSICOLOGIA - BEL/LIC - INTEGRAL",
+        "campus": "FLORIANÓPOLIS",
+        "pmc": 105,
+        "pesos": {
+            "pli": 1.0,
+            "sli": 1.0,
+            "mtm": 1.0,
+            "blg": 1.0,
+            "qmc": 1.0,
+            "fsc": 1.0,
+            "chs": 1.0,
+            "rdc": 1.5,
+            "dsc": 1.0
+        },
+        "corte": {
+            "pli": 3.0,
+            "sli": 0.5,
+            "mtm": 0.5,
+            "blg": 0.5,
+            "qmc": 0.5,
+            "fsc": 0.5,
+            "chs": 2.0,
+            "rdc": 3.0,
+            "dsc": 0.0
+        }
+    },
+    {
+        "curso": 226,
+        "nome": "QUÍMICA - BEL - INTEGRAL",
+        "campus": "FLORIANÓPOLIS",
+        "pmc": 120,
+        "pesos": {
+            "pli": 1.0,
+            "sli": 1.0,
+            "mtm": 1.5,
+            "blg": 1.0,
+            "qmc": 1.5,
+            "fsc": 1.5,
+            "chs": 1.0,
+            "rdc": 1.5,
+            "dsc": 1.0
+        },
+        "corte": {
+            "pli": 3.0,
+            "sli": 0.5,
+            "mtm": 0.5,
+            "blg": 0.5,
+            "qmc": 0.5,
+            "fsc": 0.5,
+            "chs": 2.0,
+            "rdc": 3.0,
+            "dsc": 0.0
+        }
+    },
+    {
+        "curso": 757,
+        "nome": "QUÍMICA - BEL - NOTURNO",
+        "campus": "BLUMENAU",
+        "pmc": 105,
+        "pesos": {
+            "pli": 1.0,
+            "sli": 1.0,
+            "mtm": 1.0,
+            "blg": 1.0,
+            "qmc": 1.0,
+            "fsc": 1.0,
+            "chs": 1.0,
+            "rdc": 1.5,
+            "dsc": 1.0
+        },
+        "corte": {
+            "pli": 3.0,
+            "sli": 0.5,
+            "mtm": 0.5,
+            "blg": 0.5,
+            "qmc": 0.5,
+            "fsc": 0.5,
+            "chs": 2.0,
+            "rdc": 3.0,
+            "dsc": 0.0
+        }
+    },
+    {
+        "curso": 205,
+        "nome": "QUÍMICA - LIC - INTEGRAL",
+        "campus": "FLORIANÓPOLIS",
+        "pmc": 120,
+        "pesos": {
+            "pli": 1.0,
+            "sli": 1.0,
+            "mtm": 1.5,
+            "blg": 1.0,
+            "qmc": 1.5,
+            "fsc": 1.5,
+            "chs": 1.0,
+            "rdc": 1.5,
+            "dsc": 1.0
+        },
+        "corte": {
+            "pli": 3.0,
+            "sli": 0.5,
+            "mtm": 0.5,
+            "blg": 0.5,
+            "qmc": 0.5,
+            "fsc": 0.5,
+            "chs": 2.0,
+            "rdc": 3.0,
+            "dsc": 0.0
+        }
+    },
+    {
+        "curso": 752,
+        "nome": "QUÍMICA - LIC - NOTURNO",
+        "campus": "BLUMENAU",
+        "pmc": 105,
+        "pesos": {
+            "pli": 1.0,
+            "sli": 1.0,
+            "mtm": 1.0,
+            "blg": 1.0,
+            "qmc": 1.0,
+            "fsc": 1.0,
+            "chs": 1.0,
+            "rdc": 1.5,
+            "dsc": 1.0
+        },
+        "corte": {
+            "pli": 3.0,
+            "sli": 0.5,
+            "mtm": 0.5,
+            "blg": 0.5,
+            "qmc": 0.5,
+            "fsc": 0.5,
+            "chs": 2.0,
+            "rdc": 3.0,
+            "dsc": 0.0
+        }
+    },
+    {
+        "curso": 227,
+        "nome": "QUÍMICA TECNOLÓGICA - BEL - INTEGRAL",
+        "campus": "FLORIANÓPOLIS",
+        "pmc": 120,
+        "pesos": {
+            "pli": 1.0,
+            "sli": 1.0,
+            "mtm": 1.5,
+            "blg": 1.0,
+            "qmc": 1.5,
+            "fsc": 1.5,
+            "chs": 1.0,
+            "rdc": 1.5,
+            "dsc": 1.0
+        },
+        "corte": {
+            "pli": 3.0,
+            "sli": 0.5,
+            "mtm": 0.5,
+            "blg": 0.5,
+            "qmc": 0.5,
+            "fsc": 0.5,
+            "chs": 2.0,
+            "rdc": 3.0,
+            "dsc": 0.0
+        }
+    },
+    {
+        "curso": 340,
+        "nome": "RELAÇÕES INTERNACIONAIS - BEL - VESPERTINO",
+        "campus": "FLORIANÓPOLIS",
+        "pmc": 120,
+        "pesos": {
+            "pli": 1.5,
+            "sli": 1.5,
+            "mtm": 1.0,
+            "blg": 1.0,
+            "qmc": 1.0,
+            "fsc": 1.0,
+            "chs": 1.0,
+            "rdc": 2.0,
+            "dsc": 1.0
+        },
+        "corte": {
+            "pli": 3.0,
+            "sli": 0.5,
+            "mtm": 0.5,
+            "blg": 0.5,
+            "qmc": 0.5,
+            "fsc": 0.5,
+            "chs": 2.0,
+            "rdc": 3.0,
+            "dsc": 0.0
+        }
+    },
+    {
+        "curso": 429,
+        "nome": "SECRETARIADO EXECUTIVO - BEL - NOTURNO",
+        "campus": "FLORIANÓPOLIS",
+        "pmc": 105,
+        "pesos": {
+            "pli": 1.0,
+            "sli": 1.0,
+            "mtm": 1.0,
+            "blg": 1.0,
+            "qmc": 1.0,
+            "fsc": 1.0,
+            "chs": 1.0,
+            "rdc": 1.5,
+            "dsc": 1.0
+        },
+        "corte": {
+            "pli": 3.0,
+            "sli": 0.5,
+            "mtm": 0.2,
+            "blg": 0.2,
+            "qmc": 0.2,
+            "fsc": 0.2,
+            "chs": 2.0,
+            "rdc": 3.0,
+            "dsc": 0.0
+        }
+    },
+    {
+        "curso": 339,
+        "nome": "SERVIÇO SOCIAL - BEL - NOTURNO",
+        "campus": "FLORIANÓPOLIS",
+        "pmc": 100,
+        "pesos": {
+            "pli": 1.0,
+            "sli": 1.0,
+            "mtm": 1.0,
+            "blg": 1.0,
+            "qmc": 1.0,
+            "fsc": 1.0,
+            "chs": 1.0,
+            "rdc": 1.0,
+            "dsc": 1.0
+        },
+        "corte": {
+            "pli": 1.0,
+            "sli": 0.0,
+            "mtm": 0.0,
+            "blg": 0.0,
+            "qmc": 0.0,
+            "fsc": 0.0,
+            "chs": 1.0,
+            "rdc": 2.0,
+            "dsc": 0.0
+        }
+    },
+    {
+        "curso": 238,
+        "nome": "SISTEMAS DE INFORMAÇÃO - BEL - NOTURNO",
+        "campus": "FLORIANÓPOLIS",
+        "pmc": 177,
+        "pesos": {
+            "pli": 2.0,
+            "sli": 1.0,
+            "mtm": 4.0,
+            "blg": 1.0,
+            "qmc": 1.0,
+            "fsc": 3.0,
+            "chs": 1.0,
+            "rdc": 1.5,
+            "dsc": 2.0
+        },
+        "corte": {
+            "pli": 3.0,
+            "sli": 1.0,
+            "mtm": 2.0,
+            "blg": 1.0,
+            "qmc": 1.0,
+            "fsc": 2.0,
+            "chs": 1.0,
+            "rdc": 3.0,
+            "dsc": 0.0
+        }
+    },
+    {
+        "curso": 652,
+        "nome": "TECNOLOGIAS DA INFORMAÇÃO E COMUNICAÇÃO - BEL - NOTURNO",
+        "campus": "ARARANGUÁ",
+        "pmc": 110,
+        "pesos": {
+            "pli": 1.0,
+            "sli": 1.0,
+            "mtm": 1.5,
+            "blg": 1.0,
+            "qmc": 1.0,
+            "fsc": 1.0,
+            "chs": 1.0,
+            "rdc": 1.5,
+            "dsc": 1.0
+        },
+        "corte": {
+            "pli": 0.9,
+            "sli": 0.5,
+            "mtm": 1.3,
+            "blg": 0.0,
+            "qmc": 0.0,
+            "fsc": 0.0,
+            "chs": 0.5,
+            "rdc": 1.4,
+            "dsc": 0.0
+        }
+    },
+    {
+        "curso": 502,
+        "nome": "ZOOTECNIA - BEL - INTEGRAL",
+        "campus": "FLORIANÓPOLIS",
+        "pmc": 105,
+        "pesos": {
+            "pli": 1.0,
+            "sli": 1.0,
+            "mtm": 1.0,
+            "blg": 1.0,
+            "qmc": 1.0,
+            "fsc": 1.0,
+            "chs": 1.0,
+            "rdc": 1.5,
+            "dsc": 1.0
+        },
+        "corte": {
+            "pli": 3.0,
+            "sli": 0.5,
+            "mtm": 0.5,
+            "blg": 0.5,
+            "qmc": 0.5,
+            "fsc": 0.5,
+            "chs": 2.0,
+            "rdc": 3.0,
+            "dsc": 0.0
+        }
+    }
+]

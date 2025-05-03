@@ -18,16 +18,16 @@ function Somatoria() {
         return alert("A soma ou o gabarito estão acima do máximo!");
     };
 
-    var preps = [];
+    let preps = [];
 
     for (let i = np - 1; i >= 0; i--) {
         preps.push(2**i);
     };
 
-    var ntpc = 0;
-    var corretas = [];
-    var incorretas = [];
-    var assinaladas = [];
+    let ntpc = 0;
+    let corretas = [];
+    let incorretas = [];
+    let assinaladas = [];
 
     preps.forEach((prep) => {
         if (gabarito >= prep) {

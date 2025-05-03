@@ -1,62 +1,81 @@
 <!DOCTYPE html>
 <html lang="pt-br">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Site simples para calcular a pontuação de uma questão de somatória da UFSC.">
-    <title>Somatória UFSC</title>
-    <link rel="stylesheet" href="css/main.css">
-    <link rel="stylesheet" href="css/somatoria.css">
-    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
-    <script src="js/somatoria.js"></script>
-</head>
-<body>
-    <nav>
-        <ul>
-            <li>
-                <a href="/">Somatória</a>
-            </li>
-            <li>
-                <a href="/notafinal.html">Nota Final</a>
-            </li>
-        </ul>
-    </nav>
-    <main>
-        <section class="title">
-            <h1>Calcular Somatória UFSC</h1>
-        </section>
-        <section class="dados">
-            <form class="form" action="javascript:Somatoria()">
-                <section class="soma">
-                    <label for="soma">Soma:</label>
-                    <input type="number" id="soma" name="soma" min="1" max="99" maxlength="2" placeholder="Ex.: 38" required oninput="javascript: if (this.value.length > this.maxLength) this.value = this.value.slice(0, this.maxLength);">
-                </section>
-                <section class="gabarito">
-                    <label for="gabarito">Gabarito:</label>
-                    <input type="number" id="gabarito" name="gabarito" min="1" max="99" maxlength="2" placeholder="Ex.: 36" required oninput="javascript: if (this.value.length > this.maxLength) this.value = this.value.slice(0, this.maxLength);">
-                </section>
-                <section class="quantidade">
-                    <label for="quantidade">Maior proposição:</label>
-                    <select name="quantidade" id="quantidade">
-                        <option value="7">64</option>
-                        <option value="6">32</option>
-                        <option value="5">16</option>
-                        <option value="4">8</option>
-                        <option value="3">4</option>
-                    </select>
-                </section>
-                <input class="submit" type="submit" value="Calcular">
-            </form>
-        </section>
-        <section class="resultado">
-            <p id="pontuacao"></p>
-            <p id="assinaladas"></p>
-            <p id="corretas"></p>
-            <p id="incorretas"></p>
-        </section>
-    </main>
-    <footer>
-        <p>Desenvolvido por <a href="https://github.com/mateusbertan" target="_blank">Mateus Bertan</a></p>
-    </footer>
-</body>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="Site simples para calcular a pontuação de uma questão de somatória da UFSC.">
+        <title>Somatória UFSC</title>
+        <link rel="stylesheet" href="css/style.css">
+        <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+        <script src="js/somatoria.js"></script>
+    </head>
+    <body>
+        <nav>
+            <ul>
+                <li>
+                    <a href="/">Somatória</a>
+                </li>
+                <li>
+                    <a href="/notafinal.html">Nota Final</a>
+                </li>
+            </ul>
+        </nav>
+        <main>
+            <section class="title">
+                <h1>Calcular Somatória UFSC</h1>
+            </section>
+            <section class="dados">
+                <form class="form" action="javascript:Somatoria()">
+                    <section class="soma">
+                        <label for="soma">Soma:</label>
+                        <input
+                            type="number"
+                            id="soma"
+                            name="soma"
+                            min="1"
+                            max="99"
+                            maxlength="2"
+                            placeholder="Ex.: 38"
+                            required
+                            oninput="this.value = this.value.replace(/[^0-9]/g, '').slice(0, this.maxLength);"
+                        >
+                    </section>
+                    <section class="gabarito">
+                        <label for="gabarito">Gabarito:</label>
+                        <input
+                            type="number"
+                            id="gabarito"
+                            name="gabarito"
+                            min="1"
+                            max="99"
+                            maxlength="2"
+                            placeholder="Ex.: 36"
+                            required
+                            oninput="this.value = this.value.replace(/[^0-9]/g, '').slice(0, this.maxLength);"
+                        >
+                    </section>
+                    <section class="quantidade">
+                        <label for="quantidade">Maior proposição:</label>
+                        <select name="quantidade" id="quantidade">
+                            <option value="7">64</option>
+                            <option value="6">32</option>
+                            <option value="5">16</option>
+                            <option value="4">8</option>
+                            <option value="3">4</option>
+                        </select>
+                    </section>
+                    <input class="submit" type="submit" value="Calcular">
+                </form>
+            </section>
+            <section class="resultado">
+                <p id="pontuacao"></p>
+                <p id="assinaladas"></p>
+                <p id="corretas"></p>
+                <p id="incorretas"></p>
+            </section>
+        </main>
+        <footer>
+            <p>Desenvolvido por <a href="https://github.com/mateusbertan" target="_blank">Mateus Bertan</a></p>
+        </footer>
+    </body>
 </html>

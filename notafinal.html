@@ -1,34 +1,169 @@
 <!DOCTYPE html>
 <html lang="pt-br">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Site simples para calcular a nota final do vestibular da UFSC.">
-    <title>Nota Final UFSC</title>
-    <link rel="stylesheet" href="css/main.css">
-    <link rel="stylesheet" href="css/notafinal.css">
-    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
-    <script src="js/notafinal.js"></script>
-</head>
-<body>
-    <nav>
-        <ul>
-            <li>
-                <a href="/">Somatória</a>
-            </li>
-            <li>
-                <a href="/notafinal.html">Nota Final</a>
-            </li>
-        </ul>
-    </nav>
-    <main>
-        <section class="title">
-            <h1>Calcular Nota Final UFSC</h1>
-            <h2 style="text-align: center;">Em desenvolvimento ⛏️</h2>
-        </section>
-    </main>
-    <footer>
-        <p>Desenvolvido por <a href="https://github.com/mateusbertan" target="_blank">Mateus Bertan</a></p>
-    </footer>
-</body>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="Site simples para calcular a nota final do vestibular da UFSC.">
+        <title>Nota Final UFSC</title>
+        <link rel="stylesheet" href="css/style.css">
+        <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+        <script src="js/notafinal.js"></script>
+    </head>
+    <body>
+        <nav>
+            <ul>
+                <li>
+                    <a href="/">Somatória</a>
+                </li>
+                <li>
+                    <a href="/notafinal.html">Nota Final</a>
+                </li>
+            </ul>
+        </nav>
+        <main>
+            <section class="title">
+                <h1>Calcular Nota Final UFSC</h1>
+            </section>
+            <section class="dados dadosnotafinal">
+                <form class="form" action="javascript:NotaFinal()">
+                    <section class="curso">
+                        <section class="campo">
+                            <label for="campus">Campus:</label>
+                            <select name="campus" id="campus">
+                                <option value="FLORIANÓPOLIS">FLORIANÓPOLIS</option>
+                                <option value="CURITIBANOS">CURITIBANOS</option>
+                                <option value="JOINVILLE">JOINVILLE</option>
+                                <option value="ARARANGUÁ">ARARANGUÁ</option>
+                                <option value="BLUMENAU">BLUMENAU</option>
+                            </select>
+                        </section>
+                        <section class="campo">
+                            <label for="curso">Curso:</label>
+                            <select name="curso" id="curso"></select>
+                        </section>
+                    </section>
+                    <section class="header">
+                        <p>Disciplina</p>
+                        <p class="center">Pontuação</p>
+                        <p class="center">Peso</p>
+                    </section>
+                    <section class="disciplina">
+                        <label for="pli">Primeira Língua:</label>
+                        <span class="input-span">
+                            <input type="number" class="input" inputmode="decimal" step=".01" name="pli" id="pli" min="0" max="12" required>
+                            <span class="nota-maxima">/12pts</span>
+                        </span>
+                        <p class="peso pli"></p>
+                    </section>
+                    <section class="disciplina">
+                        <label for="sli">Segunda Língua:</label>
+                        <span class="input-span">
+                            <input type="number" class="input" inputmode="decimal" step=".01" name="sli" id="sli" min="0" max="8" required>
+                            <span class="nota-maxima">/08pts</span>
+                        </span>
+                        <p class="peso sli"></p>
+                    </section>
+                    <section class="disciplina">
+                        <label for="mtm">Matemática:</label>
+                        <span class="input-span">
+                            <input type="number" class="input" inputmode="decimal" step=".01" name="mtm" id="mtm" min="0" max="10" required>
+                            <span class="nota-maxima">/10pts</span>
+                        </span>
+                        <p class="peso mtm"></p>
+                    </section>
+                    <section class="disciplina">
+                        <label for="chs">Ciências Humanas:</label>
+                        <span class="input-span">
+                            <input type="number" class="input" inputmode="decimal" step=".01" name="chs" id="chs" min="0" max="20" required>
+                            <span class="nota-maxima">/20pts</span>
+                        </span>
+                        <p class="peso chs"></p>
+                    </section>
+                    <section class="disciplina">
+                        <label for="blg">Biologia:</label>
+                        <span class="input-span">
+                            <input type="number" class="input" inputmode="decimal" step=".01" name="blg" id="blg" min="0" max="10" required>
+                            <span class="nota-maxima">/10pts</span>
+                        </span>
+                        <p class="peso blg"></p>
+                    </section>
+                    <section class="disciplina">
+                        <label for="fsc">Física:</label>
+                        <span class="input-span">
+                            <input type="number" class="input" inputmode="decimal" step=".01" name="fsc" id="fsc" min="0" max="10" required>
+                            <span class="nota-maxima">/10pts</span>
+                        </span>
+                        <p class="peso fsc"></p>
+                    </section>
+                    <section class="disciplina">
+                        <label for="qmc">Química:</label>
+                        <span class="input-span">
+                            <input type="number" class="input" inputmode="decimal" step=".01" name="qmc" id="qmc" min="0" max="10" required>
+                            <span class="nota-maxima">/10pts</span>
+                        </span>
+                        <p class="peso qmc"></p>
+                    </section>
+                    <section class="disciplina">
+                        <label for="dsc">Discursivas:</label>
+                        <span class="input-span">
+                            <input type="number" class="input" inputmode="decimal" step=".01" name="dsc" id="dsc" min="0" max="10" required>
+                            <span class="nota-maxima">/10pts</span>
+                        </span>
+                        <p class="peso dsc"></p>
+                    </section>
+                    <section class="disciplina">
+                        <label for="rdc">Redação:</label>
+                        <span class="input-span">
+                            <input type="number" class="input" inputmode="decimal" step=".01" name="rdc" id="rdc" min="0" max="10" required>
+                            <span class="nota-maxima">/10pts</span>
+                        </span>
+                        <p class="peso rdc"></p>
+                    </section>                    
+                    <input class="submit" type="submit" value="Calcular">
+                </form>
+            </section>
+            <section class="resultado">
+                <p id="notafinal"></p>
+                <p id="pontuacaototal"></p>
+            </section>
+        </main>
+        <footer>
+            <p>Desenvolvido por <a href="https://github.com/mateusbertan" target="_blank">Mateus Bertan</a></p>
+        </footer>
+        <script>
+            const inputs = document.querySelectorAll('.input');
+
+            inputs.forEach((input) => {
+                input.dataset.lastValid = '';
+
+                input.addEventListener('keydown', (e) => {
+                    const allowedKeys = ['Backspace', 'Delete', 'ArrowLeft', 'ArrowRight', 'Tab', '.', ','];
+
+                    if ((e.ctrlKey || e.metaKey) && ['a', 'c', 'v', 'x'].includes(e.key.toLowerCase())) return;
+
+                    if ((e.key >= '0' && e.key <= '9') || allowedKeys.includes(e.key)) return;
+
+                    e.preventDefault();
+                });
+
+                input.addEventListener('input', () => {
+                    let value = input.value.replace(',', '.');
+                    const partialRegex = /^\d{0,2}(\.\d{0,2})?$/;
+
+                    if (partialRegex.test(value)) {
+                        const numericValue = parseFloat(value);
+                        const maxValue = parseFloat(input.max);
+
+                        if (!value.endsWith('.') && numericValue > maxValue) {
+                            input.value = input.dataset.lastValid;
+                        } else {
+                            input.dataset.lastValid = value;
+                        };
+                    } else {
+                        input.value = input.dataset.lastValid;
+                    };
+                });
+            });
+          </script>
+    </body>
 </html>
