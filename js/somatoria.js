@@ -14,7 +14,7 @@ function Somatoria() {
         return alert("Há algum dado incorreto!");
     };
 
-    if (soma > ((2 ** ( np - 1)) * 2) - 1 | gabarito > ((2 ** ( np - 1)) * 2) - 1) {
+    if (soma > (2 ** np) - 1 | gabarito > (2 ** np) - 1) {
         return alert("A soma ou o gabarito estão acima do máximo!");
     };
 
