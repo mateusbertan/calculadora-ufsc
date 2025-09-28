@@ -36,4 +36,4 @@ PMC — Pontuação máxima possível do curso, aplicando-se os pesos definidos 
 
 ### Edital
 
-As fórmulas e os pesos adotados seguem o [edital do Vestibular de 2025](https://vestibularunificado2025.ufsc.br/edital/).
+As fórmulas e os pesos adotados seguem o [edital do Vestibular de 2026](https://vestibularunificado2026.ufsc.br/edital/).
