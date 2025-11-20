@@ -118,7 +118,7 @@ main {
   color: #555;
 }
 
-.disciplina input[type="number"] {
+.disciplina input[type="text"] {
   width: 100%;
   padding: 10px;
   font-size: 1rem;
@@ -127,7 +127,7 @@ main {
   background-color: #fafafa;
 }
 
-.disciplina input[type="number"]:focus {
+.disciplina input[type="text"]:focus {
   border-color: #1a73e8;
   background-color: #fff;
   outline: none;
@@ -205,7 +205,7 @@ main {
 }
 
 /* Inputs e Selects gerais */
-input[type="number"], select {
+input[type="number"], input[type="text"], select {
   font-size: 1rem;
   padding: 10px;
   border: 1px solid #ccc;
@@ -215,7 +215,7 @@ input[type="number"], select {
   outline: none;
 }
 
-input[type="number"]:focus, select:focus {
+input[type="number"]:focus, input[type="text"]:focus, select:focus {
   border-color: #1a73e8;
   background-color: #fff;
 }
