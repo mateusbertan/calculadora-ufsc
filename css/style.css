@@ -51,6 +51,12 @@ nav a {
   transition: background-color 0.2s ease;
 }
 
+@media (max-width: 500px) {
+  nav a {
+    padding: 10px 0;
+  }
+}
+
 nav a:hover {
   background-color: #1558b0;
 }
@@ -112,6 +118,16 @@ main {
   display: grid;
   grid-template-columns: 1fr 140px 60px;
   align-items: center;
+}
+
+@media (max-width: 380px) {
+  .disciplina {
+    grid-template-columns: 1fr 110px 50px;
+  }
+  .header {
+    grid-template-columns: 1fr 130px 50px;
+    gap: 0;
+  }
 }
 
 .disciplina label {
@@ -205,7 +221,7 @@ main {
 }
 
 /* Inputs e Selects gerais */
-input[type="number"], input[type="text"], select {
+input[type="number"], select {
   font-size: 1rem;
   padding: 10px;
   border: 1px solid #ccc;
@@ -215,7 +231,7 @@ input[type="number"], input[type="text"], select {
   outline: none;
 }
 
-input[type="number"]:focus, input[type="text"]:focus, select:focus {
+input[type="number"]:focus, select:focus {
   border-color: #1a73e8;
   background-color: #fff;
 }
