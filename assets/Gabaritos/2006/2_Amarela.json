@@ -1,0 +1,158 @@
+{
+  "MATEMÁTICA": [
+    {
+      "num": 1,
+      "props": 4,
+      "soma": 9
+    },
+    {
+      "num": 2,
+      "props": 1,
+      "soma": 5
+    },
+    {
+      "num": 3,
+      "props": 5,
+      "soma": 7
+    },
+    {
+      "num": 4,
+      "props": 1,
+      "soma": 6
+    },
+    {
+      "num": 5,
+      "props": 4,
+      "soma": 3
+    },
+    {
+      "num": 6,
+      "props": 1,
+      "soma": 24
+    },
+    {
+      "num": 7,
+      "props": 5,
+      "soma": 22
+    },
+    {
+      "num": 8,
+      "props": 1,
+      "soma": 4
+    },
+    {
+      "num": 9,
+      "props": 4,
+      "soma": 5
+    },
+    {
+      "num": 10,
+      "props": 1,
+      "soma": 99
+    }
+  ],
+  "GEOGRAFIA": [
+    {
+      "num": 11,
+      "props": 5,
+      "soma": 21
+    },
+    {
+      "num": 12,
+      "props": 5,
+      "soma": 17
+    },
+    {
+      "num": 13,
+      "props": 6,
+      "soma": 25
+    },
+    {
+      "num": 14,
+      "props": 7,
+      "soma": 80
+    },
+    {
+      "num": 15,
+      "props": 5,
+      "soma": 9
+    },
+    {
+      "num": 16,
+      "props": 5,
+      "soma": 12
+    },
+    {
+      "num": 17,
+      "props": 7,
+      "soma": 51
+    },
+    {
+      "num": 18,
+      "props": 5,
+      "soma": 7
+    },
+    {
+      "num": 19,
+      "props": 7,
+      "soma": 76
+    },
+    {
+      "num": 20,
+      "props": 6,
+      "soma": 60
+    }
+  ],
+  "BIOLOGIA": [
+    {
+      "num": 21,
+      "props": 5,
+      "soma": 11
+    },
+    {
+      "num": 22,
+      "props": 4,
+      "soma": 2
+    },
+    {
+      "num": 23,
+      "props": 1,
+      "soma": 32
+    },
+    {
+      "num": 24,
+      "props": 5,
+      "soma": 6
+    },
+    {
+      "num": 25,
+      "props": 6,
+      "soma": 13
+    },
+    {
+      "num": 26,
+      "props": 6,
+      "soma": 36
+    },
+    {
+      "num": 27,
+      "props": 5,
+      "soma": 8
+    },
+    {
+      "num": 28,
+      "props": 5,
+      "soma": 5
+    },
+    {
+      "num": 29,
+      "props": 5,
+      "soma": 10
+    },
+    {
+      "num": 30,
+      "props": 6,
+      "soma": 9
+    }
+  ]
+}

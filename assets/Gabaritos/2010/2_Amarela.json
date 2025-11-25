@@ -1,0 +1,210 @@
+{
+  "HISTÓRIA": [
+    {
+      "num": 1,
+      "props": 6,
+      "soma": 20
+    },
+    {
+      "num": 2,
+      "props": 5,
+      "soma": 7
+    },
+    {
+      "num": 3,
+      "props": 5,
+      "soma": 25
+    },
+    {
+      "num": 4,
+      "props": 6,
+      "soma": 6
+    },
+    {
+      "num": 5,
+      "props": 7,
+      "soma": 65
+    },
+    {
+      "num": 6,
+      "props": 6,
+      "soma": 33
+    },
+    {
+      "num": 7,
+      "props": 6,
+      "soma": 9
+    },
+    {
+      "num": 8,
+      "props": 7,
+      "soma": 16
+    },
+    {
+      "num": 9,
+      "props": 6,
+      "soma": 26
+    },
+    {
+      "num": 10,
+      "props": 6,
+      "soma": 6
+    }
+  ],
+  "GEOGRAFIA": [
+    {
+      "num": 11,
+      "props": 5,
+      "soma": 3
+    },
+    {
+      "num": 12,
+      "props": 6,
+      "soma": 34
+    },
+    {
+      "num": 13,
+      "props": 5,
+      "soma": 5
+    },
+    {
+      "num": 14,
+      "props": 5,
+      "soma": 9
+    },
+    {
+      "num": 15,
+      "props": 7,
+      "soma": 73
+    },
+    {
+      "num": 16,
+      "props": 5,
+      "soma": 10
+    },
+    {
+      "num": 17,
+      "props": 6,
+      "soma": 19
+    },
+    {
+      "num": 18,
+      "props": 7,
+      "soma": 50
+    },
+    {
+      "num": 19,
+      "props": 5,
+      "soma": 7
+    },
+    {
+      "num": 20,
+      "props": 6,
+      "soma": 22
+    }
+  ],
+  "FÍSICA": [
+    {
+      "num": 21,
+      "props": 7,
+      "soma": 81
+    },
+    {
+      "num": 22,
+      "props": 5,
+      "soma": 5
+    },
+    {
+      "num": 23,
+      "props": 6,
+      "soma": 41
+    },
+    {
+      "num": 24,
+      "props": 5,
+      "soma": 24
+    },
+    {
+      "num": 25,
+      "props": 5,
+      "soma": 10
+    },
+    {
+      "num": 26,
+      "props": 6,
+      "soma": 3
+    },
+    {
+      "num": 27,
+      "props": 6,
+      "soma": 38
+    },
+    {
+      "num": 28,
+      "props": 6,
+      "soma": 5
+    },
+    {
+      "num": 29,
+      "props": 6,
+      "soma": 22
+    },
+    {
+      "num": 30,
+      "props": 5,
+      "soma": 3
+    }
+  ],
+  "QUÍMICA": [
+    {
+      "num": 31,
+      "props": 7,
+      "soma": 56
+    },
+    {
+      "num": 32,
+      "props": 6,
+      "soma": 11
+    },
+    {
+      "num": 33,
+      "props": 7,
+      "soma": 67
+    },
+    {
+      "num": 34,
+      "props": 7,
+      "soma": 19
+    },
+    {
+      "num": 35,
+      "props": 7,
+      "soma": 54
+    },
+    {
+      "num": 36,
+      "props": 6,
+      "soma": 36
+    },
+    {
+      "num": 37,
+      "props": 6,
+      "soma": 10
+    },
+    {
+      "num": 38,
+      "props": 6,
+      "soma": 24
+    },
+    {
+      "num": 39,
+      "props": 6,
+      "soma": 19
+    },
+    {
+      "num": 40,
+      "props": 7,
+      "soma": 11
+    }
+  ]
+}
