@@ -1,81 +1,18 @@
-const cursosPath = '/assets/cursos.json';
-
-document.addEventListener('DOMContentLoaded', () => {
-  const campusSelect = document.getElementById('campus');
-  const cursoSelect = document.getElementById('curso');
-  const elementosPeso = document.getElementsByClassName('peso');
-
-  fetch(cursosPath)
-    .then((response) => response.json())
-    .then((json) => {
-      const cursos = json;
-
-      cursos.forEach(curso => {
-        if (curso.campus === campusSelect.value) {
-          atualizarCursos(curso);
-        };
-      });
-
-      const pesosPrimeiroCurso = cursos[0].pesos;
-
-      for (i = 0; i < elementosPeso.length; i++) {
-        const disciplina = elementosPeso[i].className.slice(5, 8);
-        const peso = pesosPrimeiroCurso[disciplina];
-        elementosPeso[i].innerHTML = `<b>${String(peso).replace('.', ',')}</b>`;
-      };
-
-      campusSelect.addEventListener("change", () => {
-        cursoSelect.innerHTML = '';
-
-        cursos.forEach(curso => {
-          if (curso.campus === campusSelect.value) {
-            atualizarCursos(curso);
-          };
-        });
-
-        atualizarPesos();
-      });
-
-      cursoSelect.addEventListener("change", () => {
-        atualizarPesos();
-      });
-
-      function atualizarCursos(curso) {
-        const option = document.createElement('option');
-        option.value = curso.curso;
-        option.textContent = curso.nome;
-        cursoSelect.appendChild(option);
-      };
-
-      function atualizarPesos() {
-        const numeroCurso = cursoSelect.value;
-        const arrayCurso = cursos.filter((curso) => curso.curso == numeroCurso);
-        const pesosCurso = arrayCurso[0].pesos;
-
-        for (i = 0; i < elementosPeso.length; i++) {
-          const disciplina = elementosPeso[i].className.slice(5, 8);
-          const peso = pesosCurso[disciplina];
-          elementosPeso[i].innerHTML = `<b>${String(peso).replace('.', ',')}</b>`;
-        };
-      };
-    });
-});
-
 /* NF — Nota final do candidato
  * PT — Soma dos pontos obtidos nas questões de proposições múltiplas, abertas, discursivas e na redação, considerando os pesos do curso
  * PMC — Pontuação máxima possível do curso, aplicando-se os pesos definidos no edital
  */
 
 function NotaFinal() {
-  const notaPli = Number(document.getElementById('pli').value.replace(/\D/g, "")/100);
-  const notaSli = Number(document.getElementById('sli').value.replace(/\D/g, "")/100);
-  const notaMtm = Number(document.getElementById('mtm').value.replace(/\D/g, "")/100);
-  const notaChs = Number(document.getElementById('chs').value.replace(/\D/g, "")/100);
-  const notaBlg = Number(document.getElementById('blg').value.replace(/\D/g, "")/100);
-  const notaFsc = Number(document.getElementById('fsc').value.replace(/\D/g, "")/100);
-  const notaQmc = Number(document.getElementById('qmc').value.replace(/\D/g, "")/100);
-  const notaDsc = Number(document.getElementById('dsc').value.replace(/\D/g, "")/100);
-  const notaRdc = Number(document.getElementById('rdc').value.replace(/\D/g, "")/100);
+  const notaPli = Number(document.getElementById('pli').value.replace(/\D/g, "") / 100);
+  const notaSli = Number(document.getElementById('sli').value.replace(/\D/g, "") / 100);
+  const notaMtm = Number(document.getElementById('mtm').value.replace(/\D/g, "") / 100);
+  const notaChs = Number(document.getElementById('chs').value.replace(/\D/g, "") / 100);
+  const notaBlg = Number(document.getElementById('blg').value.replace(/\D/g, "") / 100);
+  const notaFsc = Number(document.getElementById('fsc').value.replace(/\D/g, "") / 100);
+  const notaQmc = Number(document.getElementById('qmc').value.replace(/\D/g, "") / 100);
+  const notaDsc = Number(document.getElementById('dsc').value.replace(/\D/g, "") / 100);
+  const notaRdc = Number(document.getElementById('rdc').value.replace(/\D/g, "") / 100);
 
   const numeroCurso = document.getElementById('curso').value;
 
