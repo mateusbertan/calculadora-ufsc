@@ -1,8 +1,8 @@
 [
   {
     "curso": 301,
-    "nome": "ADMINISTRAÇÃO - BEL - MATUTINO",
-    "campus": "FLORIANÓPOLIS",
+    "nome": "Administração - Bel - Matutino",
+    "campus": "Florianópolis",
     "pmc": 194,
     "pesos": {
       "pli": 3,
@@ -29,8 +29,8 @@
   },
   {
     "curso": 316,
-    "nome": "ADMINISTRAÇÃO - BEL - NOTURNO",
-    "campus": "FLORIANÓPOLIS",
+    "nome": "Administração - Bel - Noturno",
+    "campus": "Florianópolis",
     "pmc": 194,
     "pesos": {
       "pli": 3,
@@ -57,8 +57,8 @@
   },
   {
     "curso": 501,
-    "nome": "AGRONOMIA - BEL - INTEGRAL",
-    "campus": "FLORIANÓPOLIS",
+    "nome": "Agronomia - Bel - Integral",
+    "campus": "Florianópolis",
     "pmc": 125,
     "pesos": {
       "pli": 1,
@@ -85,8 +85,8 @@
   },
   {
     "curso": 555,
-    "nome": "AGRONOMIA - BEL - INTEGRAL",
-    "campus": "CURITIBANOS",
+    "nome": "Agronomia - Bel - Integral",
+    "campus": "Curitibanos",
     "pmc": 105,
     "pesos": {
       "pli": 1,
@@ -113,8 +113,8 @@
   },
   {
     "curso": 455,
-    "nome": "ANIMAÇÃO - BEL - INTEGRAL",
-    "campus": "FLORIANÓPOLIS",
+    "nome": "Animação - Bel - Integral",
+    "campus": "Florianópolis",
     "pmc": 105,
     "pesos": {
       "pli": 1,
@@ -141,8 +141,8 @@
   },
   {
     "curso": 337,
-    "nome": "ANTROPOLOGIA - BEL - VESPERTINO",
-    "campus": "FLORIANÓPOLIS",
+    "nome": "Antropologia - Bel - Vespertino",
+    "campus": "Florianópolis",
     "pmc": 121,
     "pesos": {
       "pli": 1.5,
@@ -169,8 +169,8 @@
   },
   {
     "curso": 207,
-    "nome": "ARQUITETURA E URBANISMO - BEL - INTEGRAL",
-    "campus": "FLORIANÓPOLIS",
+    "nome": "Arquitetura e Urbanismo - Bel - Integral",
+    "campus": "Florianópolis",
     "pmc": 105,
     "pesos": {
       "pli": 1,
@@ -197,8 +197,8 @@
   },
   {
     "curso": 335,
-    "nome": "ARQUIVOLOGIA - BEL - NOTURNO",
-    "campus": "FLORIANÓPOLIS",
+    "nome": "Arquivologia - Bel - Noturno",
+    "campus": "Florianópolis",
     "pmc": 105,
     "pesos": {
       "pli": 1,
@@ -225,8 +225,8 @@
   },
   {
     "curso": 451,
-    "nome": "ARTES CÊNICAS - BEL - NOTURNO",
-    "campus": "FLORIANÓPOLIS",
+    "nome": "Artes Cênicas - Bel - Noturno",
+    "campus": "Florianópolis",
     "pmc": 105,
     "pesos": {
       "pli": 1,
@@ -253,8 +253,8 @@
   },
   {
     "curso": 324,
-    "nome": "BIBLIOTECONOMIA - BEL - NOTURNO",
-    "campus": "FLORIANÓPOLIS",
+    "nome": "Biblioteconomia - Bel - Noturno",
+    "campus": "Florianópolis",
     "pmc": 105,
     "pesos": {
       "pli": 1,
@@ -281,8 +281,8 @@
   },
   {
     "curso": 208,
-    "nome": "CIÊNCIA DA COMPUTAÇÃO - BEL - INTEGRAL",
-    "campus": "FLORIANÓPOLIS",
+    "nome": "Ciência da Computação - Bel - Integral",
+    "campus": "Florianópolis",
     "pmc": 145,
     "pesos": {
       "pli": 1,
@@ -309,8 +309,8 @@
   },
   {
     "curso": 342,
-    "nome": "CIÊNCIA DA INFORMAÇÃO - BEL - INTEGRAL",
-    "campus": "FLORIANÓPOLIS",
+    "nome": "Ciência da Informação - Bel - Integral",
+    "campus": "Florianópolis",
     "pmc": 110,
     "pesos": {
       "pli": 1,
@@ -337,8 +337,8 @@
   },
   {
     "curso": 349,
-    "nome": "CIÊNCIA DE DADOS - TECNOLÓGICO - INTEGRAL",
-    "campus": "FLORIANÓPOLIS",
+    "nome": "Ciência de Dados - Tecnológico - Integral",
+    "campus": "Florianópolis",
     "pmc": 145,
     "pesos": {
       "pli": 1,
@@ -365,8 +365,8 @@
   },
   {
     "curso": 601,
-    "nome": "CIÊNCIA E TECNOLOGIA - BEL - INTEGRAL",
-    "campus": "JOINVILLE",
+    "nome": "Ciência e Tecnologia - Bel - Integral",
+    "campus": "Joinville",
     "pmc": 100,
     "pesos": {
       "pli": 1,
@@ -393,8 +393,8 @@
   },
   {
     "curso": 503,
-    "nome": "CIÊNCIA E TECNOLOGIA DE ALIMENTOS - BEL - INTEGRAL",
-    "campus": "FLORIANÓPOLIS",
+    "nome": "Ciência e Tecnologia de Alimentos - Bel - Integral",
+    "campus": "Florianópolis",
     "pmc": 100,
     "pesos": {
       "pli": 1,
@@ -421,8 +421,8 @@
   },
   {
     "curso": 108,
-    "nome": "CIÊNCIAS BIOLÓGICAS - BEL/LIC - INTEGRAL",
-    "campus": "FLORIANÓPOLIS",
+    "nome": "Ciências Biológicas - Bel/Lic - Integral",
+    "campus": "Florianópolis",
     "pmc": 172,
     "pesos": {
       "pli": 2,
@@ -449,8 +449,8 @@
   },
   {
     "curso": 110,
-    "nome": "CIÊNCIAS BIOLÓGICAS - LIC - NOTURNO",
-    "campus": "FLORIANÓPOLIS",
+    "nome": "Ciências Biológicas - Lic - Noturno",
+    "campus": "Florianópolis",
     "pmc": 172,
     "pesos": {
       "pli": 2,
@@ -477,8 +477,8 @@
   },
   {
     "curso": 302,
-    "nome": "CIÊNCIAS CONTÁBEIS - BEL - MATUTINO",
-    "campus": "FLORIANÓPOLIS",
+    "nome": "Ciências Contábeis - Bel - Matutino",
+    "campus": "Florianópolis",
     "pmc": 127,
     "pesos": {
       "pli": 2,
@@ -505,8 +505,8 @@
   },
   {
     "curso": 317,
-    "nome": "CIÊNCIAS CONTÁBEIS - BEL - NOTURNO",
-    "campus": "FLORIANÓPOLIS",
+    "nome": "Ciências Contábeis - Bel - Noturno",
+    "campus": "Florianópolis",
     "pmc": 127,
     "pesos": {
       "pli": 2,
@@ -533,8 +533,8 @@
   },
   {
     "curso": 304,
-    "nome": "CIÊNCIAS ECONÔMICAS - BEL - MATUTINO",
-    "campus": "FLORIANÓPOLIS",
+    "nome": "Ciências Econômicas - Bel - Matutino",
+    "campus": "Florianópolis",
     "pmc": 147,
     "pesos": {
       "pli": 2,
@@ -561,8 +561,8 @@
   },
   {
     "curso": 318,
-    "nome": "CIÊNCIAS ECONÔMICAS - BEL - NOTURNO",
-    "campus": "FLORIANÓPOLIS",
+    "nome": "Ciências Econômicas - Bel - Noturno",
+    "campus": "Florianópolis",
     "pmc": 147,
     "pesos": {
       "pli": 2,
@@ -589,8 +589,8 @@
   },
   {
     "curso": 310,
-    "nome": "CIÊNCIAS SOCIAIS - BEL/LIC - MATUTINO",
-    "campus": "FLORIANÓPOLIS",
+    "nome": "Ciências Sociais - Bel/Lic - Matutino",
+    "campus": "Florianópolis",
     "pmc": 105,
     "pesos": {
       "pli": 1,
@@ -617,8 +617,8 @@
   },
   {
     "curso": 320,
-    "nome": "CIÊNCIAS SOCIAIS - BEL/LIC - NOTURNO",
-    "campus": "FLORIANÓPOLIS",
+    "nome": "Ciências Sociais - Bel/Lic - Noturno",
+    "campus": "Florianópolis",
     "pmc": 105,
     "pesos": {
       "pli": 1,
@@ -645,8 +645,8 @@
   },
   {
     "curso": 450,
-    "nome": "CINEMA - BEL - INTEGRAL",
-    "campus": "FLORIANÓPOLIS",
+    "nome": "Cinema - Bel - Integral",
+    "campus": "Florianópolis",
     "pmc": 105,
     "pesos": {
       "pli": 1,
@@ -673,8 +673,8 @@
   },
   {
     "curso": 454,
-    "nome": "DESIGN - BEL - INTEGRAL",
-    "campus": "FLORIANÓPOLIS",
+    "nome": "Design - Bel - Integral",
+    "campus": "Florianópolis",
     "pmc": 142,
     "pesos": {
       "pli": 2,
@@ -701,8 +701,8 @@
   },
   {
     "curso": 452,
-    "nome": "DESIGN DE PRODUTO - BEL - INTEGRAL",
-    "campus": "FLORIANÓPOLIS",
+    "nome": "Design de Produto - Bel - Integral",
+    "campus": "Florianópolis",
     "pmc": 132,
     "pesos": {
       "pli": 2,
@@ -729,8 +729,8 @@
   },
   {
     "curso": 303,
-    "nome": "DIREITO - BEL - MATUTINO",
-    "campus": "FLORIANÓPOLIS",
+    "nome": "Direito - Bel - Matutino",
+    "campus": "Florianópolis",
     "pmc": 142,
     "pesos": {
       "pli": 2,
@@ -757,8 +757,8 @@
   },
   {
     "curso": 5,
-    "nome": "DIREITO - BEL - NOTURNO",
-    "campus": "FLORIANÓPOLIS",
+    "nome": "Direito - Bel - Noturno",
+    "campus": "Florianópolis",
     "pmc": 142,
     "pesos": {
       "pli": 2,
@@ -785,8 +785,8 @@
   },
   {
     "curso": 444,
-    "nome": "EDUCAÇÃO FÍSICA - BEL - MATUTINO",
-    "campus": "FLORIANÓPOLIS",
+    "nome": "Educação Física - Bel - Matutino",
+    "campus": "Florianópolis",
     "pmc": 105,
     "pesos": {
       "pli": 1,
@@ -813,8 +813,8 @@
   },
   {
     "curso": 404,
-    "nome": "EDUCAÇÃO FÍSICA - LIC - VESPERTINO",
-    "campus": "FLORIANÓPOLIS",
+    "nome": "Educação Física - Lic - Vespertino",
+    "campus": "Florianópolis",
     "pmc": 105,
     "pesos": {
       "pli": 1,
@@ -841,8 +841,8 @@
   },
   {
     "curso": 101,
-    "nome": "ENFERMAGEM - BEL - INTEGRAL",
-    "campus": "FLORIANÓPOLIS",
+    "nome": "Enfermagem - Bel - Integral",
+    "campus": "Florianópolis",
     "pmc": 132,
     "pesos": {
       "pli": 2,
@@ -869,8 +869,8 @@
   },
   {
     "curso": 602,
-    "nome": "ENGENHARIA AEROESPACIAL - BEL - INTEGRAL",
-    "campus": "JOINVILLE",
+    "nome": "Engenharia Aeroespacial - Bel - Integral",
+    "campus": "Joinville",
     "pmc": 177,
     "pesos": {
       "pli": 2,
@@ -897,8 +897,8 @@
   },
   {
     "curso": 603,
-    "nome": "ENGENHARIA AUTOMOTIVA - BEL - INTEGRAL",
-    "campus": "JOINVILLE",
+    "nome": "Engenharia Automotiva - Bel - Integral",
+    "campus": "Joinville",
     "pmc": 172,
     "pesos": {
       "pli": 2,
@@ -925,8 +925,8 @@
   },
   {
     "curso": 201,
-    "nome": "ENGENHARIA CIVIL - BEL - INTEGRAL",
-    "campus": "FLORIANÓPOLIS",
+    "nome": "Engenharia Civil - Bel - Integral",
+    "campus": "Florianópolis",
     "pmc": 177,
     "pesos": {
       "pli": 2,
@@ -953,8 +953,8 @@
   },
   {
     "curso": 607,
-    "nome": "ENGENHARIA CIVIL DE INFRAESTRUTURA - BEL - INTEGRAL",
-    "campus": "JOINVILLE",
+    "nome": "Engenharia Civil de Infraestrutura - Bel - Integral",
+    "campus": "Joinville",
     "pmc": 137,
     "pesos": {
       "pli": 2,
@@ -981,8 +981,8 @@
   },
   {
     "curso": 215,
-    "nome": "ENGENHARIA DE ALIMENTOS - BEL - INTEGRAL",
-    "campus": "FLORIANÓPOLIS",
+    "nome": "Engenharia de Alimentos - Bel - Integral",
+    "campus": "Florianópolis",
     "pmc": 191,
     "pesos": {
       "pli": 2,
@@ -1009,8 +1009,8 @@
   },
   {
     "curso": 234,
-    "nome": "ENGENHARIA DE AQUICULTURA - BEL - INTEGRAL",
-    "campus": "FLORIANÓPOLIS",
+    "nome": "Engenharia de Aquicultura - Bel - Integral",
+    "campus": "Florianópolis",
     "pmc": 105,
     "pesos": {
       "pli": 1,
@@ -1037,8 +1037,8 @@
   },
   {
     "curso": 655,
-    "nome": "ENGENHARIA DE COMPUTAÇÃO - BEL - INTEGRAL",
-    "campus": "ARARANGUÁ",
+    "nome": "Engenharia de Computação - Bel - Integral",
+    "campus": "Araranguá",
     "pmc": 177,
     "pesos": {
       "pli": 2,
@@ -1065,8 +1065,8 @@
   },
   {
     "curso": 220,
-    "nome": "ENGENHARIA DE CONTROLE E AUTOMAÇÃO - BEL - INTEGRAL",
-    "campus": "FLORIANÓPOLIS",
+    "nome": "Engenharia de Controle e Automação - Bel - Integral",
+    "campus": "Florianópolis",
     "pmc": 177,
     "pesos": {
       "pli": 2,
@@ -1093,8 +1093,8 @@
   },
   {
     "curso": 754,
-    "nome": "ENGENHARIA DE CONTROLE E AUTOMAÇÃO - BEL - INTEGRAL",
-    "campus": "BLUMENAU",
+    "nome": "Engenharia de Controle e Automação - Bel - Integral",
+    "campus": "Blumenau",
     "pmc": 177,
     "pesos": {
       "pli": 2,
@@ -1121,8 +1121,8 @@
   },
   {
     "curso": 653,
-    "nome": "ENGENHARIA DE ENERGIA - BEL - INTEGRAL",
-    "campus": "ARARANGUÁ",
+    "nome": "Engenharia de energia - Bel - Integral",
+    "campus": "Araranguá",
     "pmc": 177,
     "pesos": {
       "pli": 2,
@@ -1149,8 +1149,8 @@
   },
   {
     "curso": 236,
-    "nome": "ENGENHARIA DE MATERIAIS - BEL - INTEGRAL",
-    "campus": "FLORIANÓPOLIS",
+    "nome": "Engenharia de Materiais - Bel - Integral",
+    "campus": "Florianópolis",
     "pmc": 177,
     "pesos": {
       "pli": 2,
@@ -1177,8 +1177,8 @@
   },
   {
     "curso": 753,
-    "nome": "ENGENHARIA DE MATERIAIS - BEL - INTEGRAL",
-    "campus": "BLUMENAU",
+    "nome": "Engenharia de Materiais - Bel - Integral",
+    "campus": "Blumenau",
     "pmc": 177,
     "pesos": {
       "pli": 2,
@@ -1205,8 +1205,8 @@
   },
   {
     "curso": 237,
-    "nome": "ENGENHARIA DE PRODUÇÃO - BEL - INTEGRAL",
-    "campus": "FLORIANÓPOLIS",
+    "nome": "Engenharia de Produção - Bel - Integral",
+    "campus": "Florianópolis",
     "pmc": 177,
     "pesos": {
       "pli": 2,
@@ -1233,8 +1233,8 @@
   },
   {
     "curso": 608,
-    "nome": "ENGENHARIA DE TRANSPORTES E LOGÍSTICA - BEL - INTEGRAL",
-    "campus": "JOINVILLE",
+    "nome": "Engenharia de Transportes e Logística - Bel - Integral",
+    "campus": "Joinville",
     "pmc": 177,
     "pesos": {
       "pli": 2,
@@ -1261,8 +1261,8 @@
   },
   {
     "curso": 202,
-    "nome": "ENGENHARIA ELÉTRICA - BEL - INTEGRAL",
-    "campus": "FLORIANÓPOLIS",
+    "nome": "Engenharia Elétrica - Bel - Integral",
+    "campus": "Florianópolis",
     "pmc": 177,
     "pesos": {
       "pli": 2,
@@ -1289,8 +1289,8 @@
   },
   {
     "curso": 235,
-    "nome": "ENGENHARIA ELETRÔNICA - BEL - INTEGRAL",
-    "campus": "FLORIANÓPOLIS",
+    "nome": "Engenharia Eletrônica - Bel - Integral",
+    "campus": "Florianópolis",
     "pmc": 177,
     "pesos": {
       "pli": 2,
@@ -1317,8 +1317,8 @@
   },
   {
     "curso": 604,
-    "nome": "ENGENHARIA FERROVIÁRIA E METROVIÁRIA - BEL - INTEGRAL",
-    "campus": "JOINVILLE",
+    "nome": "Engenharia Ferroviária e Metroviária - Bel - Integral",
+    "campus": "Joinville",
     "pmc": 172,
     "pesos": {
       "pli": 2,
@@ -1345,8 +1345,8 @@
   },
   {
     "curso": 553,
-    "nome": "ENGENHARIA FLORESTAL - BEL - INTEGRAL",
-    "campus": "CURITIBANOS",
+    "nome": "Engenharia Florestal - Bel - Integral",
+    "campus": "Curitibanos",
     "pmc": 100,
     "pesos": {
       "pli": 1,
@@ -1373,8 +1373,8 @@
   },
   {
     "curso": 203,
-    "nome": "ENGENHARIA MECÂNICA - BEL - INTEGRAL",
-    "campus": "FLORIANÓPOLIS",
+    "nome": "Engenharia Mecânica - Bel - Integral",
+    "campus": "Florianópolis",
     "pmc": 182,
     "pesos": {
       "pli": 2,
@@ -1401,8 +1401,8 @@
   },
   {
     "curso": 605,
-    "nome": "ENGENHARIA MECATRÔNICA - BEL - INTEGRAL",
-    "campus": "JOINVILLE",
+    "nome": "Engenharia Mecatrônica - Bel - Integral",
+    "campus": "Joinville",
     "pmc": 172,
     "pesos": {
       "pli": 2,
@@ -1429,8 +1429,8 @@
   },
   {
     "curso": 606,
-    "nome": "ENGENHARIA NAVAL - BEL - INTEGRAL",
-    "campus": "JOINVILLE",
+    "nome": "Engenharia Naval - Bel - Integral",
+    "campus": "Joinville",
     "pmc": 142,
     "pesos": {
       "pli": 2,
@@ -1457,8 +1457,8 @@
   },
   {
     "curso": 216,
-    "nome": "ENGENHARIA QUÍMICA - BEL - INTEGRAL",
-    "campus": "FLORIANÓPOLIS",
+    "nome": "Engenharia Química - Bel - Integral",
+    "campus": "Florianópolis",
     "pmc": 177,
     "pesos": {
       "pli": 2,
@@ -1485,8 +1485,8 @@
   },
   {
     "curso": 211,
-    "nome": "ENGENHARIA SANITÁRIA E AMBIENTAL - BEL - INTEGRAL",
-    "campus": "FLORIANÓPOLIS",
+    "nome": "Engenharia Sanitária e Ambiental - Bel - Integral",
+    "campus": "Florianópolis",
     "pmc": 177,
     "pesos": {
       "pli": 2,
@@ -1513,8 +1513,8 @@
   },
   {
     "curso": 755,
-    "nome": "ENGENHARIA TÊXTIL - BEL - MATUTINO",
-    "campus": "BLUMENAU",
+    "nome": "Engenharia Têxtil - Bel - Matutino",
+    "campus": "Blumenau",
     "pmc": 110,
     "pesos": {
       "pli": 1,
@@ -1541,8 +1541,8 @@
   },
   {
     "curso": 102,
-    "nome": "FARMÁCIA - BEL - INTEGRAL",
-    "campus": "FLORIANÓPOLIS",
+    "nome": "Farmácia - Bel - Integral",
+    "campus": "Florianópolis",
     "pmc": 115,
     "pesos": {
       "pli": 1,
@@ -1569,8 +1569,8 @@
   },
   {
     "curso": 323,
-    "nome": "FILOSOFIA - BEL - NOTURNO",
-    "campus": "FLORIANÓPOLIS",
+    "nome": "Filosofia - Bel - Noturno",
+    "campus": "Florianópolis",
     "pmc": 126,
     "pesos": {
       "pli": 1.5,
@@ -1597,8 +1597,8 @@
   },
   {
     "curso": 307,
-    "nome": "FILOSOFIA - LIC - VESPERTINO",
-    "campus": "FLORIANÓPOLIS",
+    "nome": "Filosofia - Lic - Vespertino",
+    "campus": "Florianópolis",
     "pmc": 126,
     "pesos": {
       "pli": 1.5,
@@ -1625,8 +1625,8 @@
   },
   {
     "curso": 2,
-    "nome": "FÍSICA - BEL - INTEGRAL",
-    "campus": "FLORIANÓPOLIS",
+    "nome": "Física - Bel - Integral",
+    "campus": "Florianópolis",
     "pmc": 132,
     "pesos": {
       "pli": 2,
@@ -1653,8 +1653,8 @@
   },
   {
     "curso": 225,
-    "nome": "FÍSICA - LIC - NOTURNO",
-    "campus": "FLORIANÓPOLIS",
+    "nome": "Física - Lic - Noturno",
+    "campus": "Florianópolis",
     "pmc": 132,
     "pesos": {
       "pli": 2,
@@ -1681,8 +1681,8 @@
   },
   {
     "curso": 654,
-    "nome": "FISIOTERAPIA - BEL - INTEGRAL",
-    "campus": "ARARANGUÁ",
+    "nome": "Fisioterapia - Bel - Integral",
+    "campus": "Araranguá",
     "pmc": 167,
     "pesos": {
       "pli": 2,
@@ -1709,8 +1709,8 @@
   },
   {
     "curso": 109,
-    "nome": "FONOAUDIOLOGIA - BEL - INTEGRAL",
-    "campus": "FLORIANÓPOLIS",
+    "nome": "Fonoaudiologia - Bel - Integral",
+    "campus": "Florianópolis",
     "pmc": 105,
     "pesos": {
       "pli": 1,
@@ -1737,8 +1737,8 @@
   },
   {
     "curso": 331,
-    "nome": "GEOGRAFIA - BEL/LIC - MATUTINO",
-    "campus": "FLORIANÓPOLIS",
+    "nome": "Geografia - Bel/Lic - Matutino",
+    "campus": "Florianópolis",
     "pmc": 105,
     "pesos": {
       "pli": 1,
@@ -1765,8 +1765,8 @@
   },
   {
     "curso": 332,
-    "nome": "GEOGRAFIA - BEL/LIC - NOTURNO",
-    "campus": "FLORIANÓPOLIS",
+    "nome": "Geografia - Bel/Lic - Noturno",
+    "campus": "Florianópolis",
     "pmc": 105,
     "pesos": {
       "pli": 1,
@@ -1793,8 +1793,8 @@
   },
   {
     "curso": 336,
-    "nome": "GEOLOGIA - BEL - INTEGRAL",
-    "campus": "FLORIANÓPOLIS",
+    "nome": "Geologia - Bel - Integral",
+    "campus": "Florianópolis",
     "pmc": 135,
     "pesos": {
       "pli": 1,
@@ -1821,8 +1821,8 @@
   },
   {
     "curso": 343,
-    "nome": "HISTÓRIA - ABI - MATUTINO",
-    "campus": "FLORIANÓPOLIS",
+    "nome": "História - Abi - Matutino",
+    "campus": "Florianópolis",
     "pmc": 105,
     "pesos": {
       "pli": 1,
@@ -1849,8 +1849,8 @@
   },
   {
     "curso": 346,
-    "nome": "HISTÓRIA - ABI - NOTURNO",
-    "campus": "FLORIANÓPOLIS",
+    "nome": "História - Abi - Noturno",
+    "campus": "Florianópolis",
     "pmc": 105,
     "pesos": {
       "pli": 1,
@@ -1877,8 +1877,8 @@
   },
   {
     "curso": 415,
-    "nome": "JORNALISMO - BEL - INTEGRAL",
-    "campus": "FLORIANÓPOLIS",
+    "nome": "Jornalismo - Bel - Integral",
+    "campus": "Florianópolis",
     "pmc": 164,
     "pesos": {
       "pli": 3,
@@ -1905,8 +1905,8 @@
   },
   {
     "curso": 460,
-    "nome": "LETRAS - ALEMÃO - ABI - VESPERTINO",
-    "campus": "FLORIANÓPOLIS",
+    "nome": "Letras - Alemão - Abi - Vespertino",
+    "campus": "Florianópolis",
     "pmc": 105,
     "pesos": {
       "pli": 1,
@@ -1933,8 +1933,8 @@
   },
   {
     "curso": 463,
-    "nome": "LETRAS - ESPANHOL - ABI - MATUTINO",
-    "campus": "FLORIANÓPOLIS",
+    "nome": "Letras - Espanhol - Abi - Matutino",
+    "campus": "Florianópolis",
     "pmc": 105,
     "pesos": {
       "pli": 1,
@@ -1961,8 +1961,8 @@
   },
   {
     "curso": 466,
-    "nome": "LETRAS - FRANCÊS - ABI - MATUTINO",
-    "campus": "FLORIANÓPOLIS",
+    "nome": "Letras - Francês - Abi - Matutino",
+    "campus": "Florianópolis",
     "pmc": 105,
     "pesos": {
       "pli": 1,
@@ -1989,8 +1989,8 @@
   },
   {
     "curso": 469,
-    "nome": "LETRAS - INGLÊS - ABI - VESPERTINO",
-    "campus": "FLORIANÓPOLIS",
+    "nome": "Letras - Inglês - Abi - Vespertino",
+    "campus": "Florianópolis",
     "pmc": 105,
     "pesos": {
       "pli": 1,
@@ -2017,8 +2017,8 @@
   },
   {
     "curso": 472,
-    "nome": "LETRAS - ITALIANO - ABI - MATUTINO",
-    "campus": "FLORIANÓPOLIS",
+    "nome": "Letras - Italiano - Abi - Matutino",
+    "campus": "Florianópolis",
     "pmc": 105,
     "pesos": {
       "pli": 1,
@@ -2045,8 +2045,8 @@
   },
   {
     "curso": 428,
-    "nome": "LETRAS - PORTUGUÊS - BEL/LIC - INTEGRAL12",
-    "campus": "FLORIANÓPOLIS",
+    "nome": "Letras - Português - Bel/Lic - Integral",
+    "campus": "Florianópolis",
     "pmc": 186,
     "pesos": {
       "pli": 4,
@@ -2073,8 +2073,8 @@
   },
   {
     "curso": 426,
-    "nome": "LETRAS - PORTUGUÊS - BEL/LIC - NOTURNO",
-    "campus": "FLORIANÓPOLIS",
+    "nome": "Letras - Português - Bel/Lic - Noturno",
+    "campus": "Florianópolis",
     "pmc": 186,
     "pesos": {
       "pli": 4,
@@ -2101,8 +2101,8 @@
   },
   {
     "curso": 222,
-    "nome": "MATEMÁTICA - BEL - INTEGRAL",
-    "campus": "FLORIANÓPOLIS",
+    "nome": "Matemática - Bel - Integral",
+    "campus": "Florianópolis",
     "pmc": 127,
     "pesos": {
       "pli": 2,
@@ -2129,8 +2129,8 @@
   },
   {
     "curso": 223,
-    "nome": "MATEMÁTICA - LIC - MATUTINO",
-    "campus": "FLORIANÓPOLIS",
+    "nome": "Matemática - Lic - Matutino",
+    "campus": "Florianópolis",
     "pmc": 127,
     "pesos": {
       "pli": 2,
@@ -2157,8 +2157,8 @@
   },
   {
     "curso": 756,
-    "nome": "MATEMÁTICA - LIC - MATUTINO",
-    "campus": "BLUMENAU",
+    "nome": "Matemática - Lic - Matutino",
+    "campus": "Blumenau",
     "pmc": 110,
     "pesos": {
       "pli": 1,
@@ -2185,8 +2185,8 @@
   },
   {
     "curso": 751,
-    "nome": "MATEMÁTICA - LIC - NOTURNO",
-    "campus": "BLUMENAU",
+    "nome": "Matemática - Lic - Noturno",
+    "campus": "Blumenau",
     "pmc": 110,
     "pesos": {
       "pli": 1,
@@ -2213,8 +2213,8 @@
   },
   {
     "curso": 103,
-    "nome": "MEDICINA - BEL - INTEGRAL",
-    "campus": "FLORIANÓPOLIS",
+    "nome": "Medicina - Bel - Integral",
+    "campus": "Florianópolis",
     "pmc": 105,
     "pesos": {
       "pli": 1,
@@ -2241,8 +2241,8 @@
   },
   {
     "curso": 556,
-    "nome": "MEDICINA - BEL - INTEGRAL",
-    "campus": "CURITIBANOS",
+    "nome": "Medicina - Bel - Integral",
+    "campus": "Curitibanos",
     "pmc": 105,
     "pesos": {
       "pli": 1,
@@ -2269,8 +2269,8 @@
   },
   {
     "curso": 656,
-    "nome": "MEDICINA - BEL - INTEGRAL",
-    "campus": "ARARANGUÁ",
+    "nome": "Medicina - Bel - Integral",
+    "campus": "Araranguá",
     "pmc": 105,
     "pesos": {
       "pli": 1,
@@ -2297,8 +2297,8 @@
   },
   {
     "curso": 552,
-    "nome": "MEDICINA VETERINÁRIA - BEL - INTEGRAL",
-    "campus": "CURITIBANOS",
+    "nome": "Medicina Veterinária - Bel - Integral",
+    "campus": "Curitibanos",
     "pmc": 125,
     "pesos": {
       "pli": 1,
@@ -2325,8 +2325,8 @@
   },
   {
     "curso": 230,
-    "nome": "METEOROLOGIA - BEL - INTEGRAL",
-    "campus": "FLORIANÓPOLIS",
+    "nome": "Meteorologia - Bel - Integral",
+    "campus": "Florianópolis",
     "pmc": 110,
     "pesos": {
       "pli": 1,
@@ -2353,8 +2353,8 @@
   },
   {
     "curso": 338,
-    "nome": "MUSEOLOGIA - BEL - INTEGRAL",
-    "campus": "FLORIANÓPOLIS",
+    "nome": "Museologia - Bel - Integral",
+    "campus": "Florianópolis",
     "pmc": 105,
     "pesos": {
       "pli": 1,
@@ -2381,8 +2381,8 @@
   },
   {
     "curso": 9,
-    "nome": "NUTRIÇÃO - BEL - INTEGRAL",
-    "campus": "FLORIANÓPOLIS",
+    "nome": "Nutrição - Bel - Integral",
+    "campus": "Florianópolis",
     "pmc": 110,
     "pesos": {
       "pli": 1,
@@ -2409,8 +2409,8 @@
   },
   {
     "curso": 333,
-    "nome": "OCEANOGRAFIA - BEL - INTEGRAL",
-    "campus": "FLORIANÓPOLIS",
+    "nome": "Oceanografia - Bel - Integral",
+    "campus": "Florianópolis",
     "pmc": 194,
     "pesos": {
       "pli": 3,
@@ -2437,8 +2437,8 @@
   },
   {
     "curso": 104,
-    "nome": "ODONTOLOGIA - BEL - INTEGRAL",
-    "campus": "FLORIANÓPOLIS",
+    "nome": "Odontologia - Bel - Integral",
+    "campus": "Florianópolis",
     "pmc": 105,
     "pesos": {
       "pli": 1,
@@ -2465,8 +2465,8 @@
   },
   {
     "curso": 308,
-    "nome": "PEDAGOGIA - LIC - VESPERTINO",
-    "campus": "FLORIANÓPOLIS",
+    "nome": "Pedagogia - Lic - Vespertino",
+    "campus": "Florianópolis",
     "pmc": 105,
     "pesos": {
       "pli": 1,
@@ -2493,8 +2493,8 @@
   },
   {
     "curso": 319,
-    "nome": "PSICOLOGIA - BEL/LIC - INTEGRAL",
-    "campus": "FLORIANÓPOLIS",
+    "nome": "Psicologia - Bel/Lic - Integral",
+    "campus": "Florianópolis",
     "pmc": 105,
     "pesos": {
       "pli": 1,
@@ -2521,8 +2521,8 @@
   },
   {
     "curso": 226,
-    "nome": "QUÍMICA - BEL - INTEGRAL",
-    "campus": "FLORIANÓPOLIS",
+    "nome": "Química - Bel - Integral",
+    "campus": "Florianópolis",
     "pmc": 120,
     "pesos": {
       "pli": 1,
@@ -2549,8 +2549,8 @@
   },
   {
     "curso": 757,
-    "nome": "QUÍMICA - BEL - NOTURNO",
-    "campus": "BLUMENAU",
+    "nome": "Química - Bel - Noturno",
+    "campus": "Blumenau",
     "pmc": 105,
     "pesos": {
       "pli": 1,
@@ -2577,8 +2577,8 @@
   },
   {
     "curso": 205,
-    "nome": "QUÍMICA - LIC - INTEGRAL",
-    "campus": "FLORIANÓPOLIS",
+    "nome": "Química - Lic - Integral",
+    "campus": "Florianópolis",
     "pmc": 120,
     "pesos": {
       "pli": 1,
@@ -2605,8 +2605,8 @@
   },
   {
     "curso": 752,
-    "nome": "QUÍMICA - LIC - NOTURNO",
-    "campus": "BLUMENAU",
+    "nome": "Química - Lic - Noturno",
+    "campus": "Blumenau",
     "pmc": 105,
     "pesos": {
       "pli": 1,
@@ -2633,8 +2633,8 @@
   },
   {
     "curso": 227,
-    "nome": "QUÍMICA TECNOLÓGICA - BEL - INTEGRAL",
-    "campus": "FLORIANÓPOLIS",
+    "nome": "Química Tecnológica - Bel - Integral",
+    "campus": "Florianópolis",
     "pmc": 120,
     "pesos": {
       "pli": 1,
@@ -2661,8 +2661,8 @@
   },
   {
     "curso": 340,
-    "nome": "RELAÇÕES INTERNACIONAIS - BEL - VESPERTINO",
-    "campus": "FLORIANÓPOLIS",
+    "nome": "Relações Internacionais - Bel - Vespertino",
+    "campus": "Florianópolis",
     "pmc": 120,
     "pesos": {
       "pli": 1.5,
@@ -2689,8 +2689,8 @@
   },
   {
     "curso": 429,
-    "nome": "SECRETARIADO EXECUTIVO - BEL - NOTURNO",
-    "campus": "FLORIANÓPOLIS",
+    "nome": "Secretariado Executivo - Bel - Noturno",
+    "campus": "Florianópolis",
     "pmc": 105,
     "pesos": {
       "pli": 1,
@@ -2717,8 +2717,8 @@
   },
   {
     "curso": 339,
-    "nome": "SERVIÇO SOCIAL - BEL - NOTURNO",
-    "campus": "FLORIANÓPOLIS",
+    "nome": "Serviço Social - Bel - Noturno",
+    "campus": "Florianópolis",
     "pmc": 100,
     "pesos": {
       "pli": 1,
@@ -2745,8 +2745,8 @@
   },
   {
     "curso": 238,
-    "nome": "SISTEMAS DE INFORMAÇÃO - BEL - NOTURNO",
-    "campus": "FLORIANÓPOLIS",
+    "nome": "Sistemas de Informação - Bel - Noturno",
+    "campus": "Florianópolis",
     "pmc": 177,
     "pesos": {
       "pli": 2,
@@ -2773,8 +2773,8 @@
   },
   {
     "curso": 652,
-    "nome": "TECNOLOGIAS DA INFORMAÇÃO E COMUNICAÇÃO - BEL - NOTURNO",
-    "campus": "ARARANGUÁ",
+    "nome": "Tecnologias da Informação e Comunicação - Bel - Noturno",
+    "campus": "Araranguá",
     "pmc": 110,
     "pesos": {
       "pli": 1,
@@ -2801,8 +2801,8 @@
   },
   {
     "curso": 502,
-    "nome": "ZOOTECNIA - BEL - INTEGRAL",
-    "campus": "FLORIANÓPOLIS",
+    "nome": "Zootecnia - Bel - Integral",
+    "campus": "Florianópolis",
     "pmc": 105,
     "pesos": {
       "pli": 1,
