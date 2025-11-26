@@ -40,7 +40,7 @@ function NotaFinal() {
 
       const pontuacao = notaPli + notaSli + notaMtm + notaChs + notaBlg + notaFsc + notaQmc + notaDsc + notaRdc;
 
-      document.getElementById('notafinal').innerHTML = `<b>Nota final:</b> ${nf.toFixed(2).replace('.', ',')}`;
+      document.getElementById('notafinal').innerHTML = `<b>Nota Final:</b> ${nf.toFixed(2).replace('.', ',')}`;
       document.getElementById('pontuacaototal').innerHTML = `<b>Pontuação Total:</b> ${pontuacao.toFixed(2).replace('.', ',')}`;
     });
 };

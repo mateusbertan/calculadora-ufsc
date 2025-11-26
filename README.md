@@ -21,7 +21,7 @@ NPI — Número de proposições incorretas consideradas corretas pelo candidato
 
 > Obs.: A pontuação da questão é expressa com duas casas decimais, com arredondamento na segunda casa decimal.
 
-### Nota final
+### Nota Final
 
 O cálculo da nota final, considerando o peso de cada disciplina para o curso escolhido, é dado pela fórmula:
 
