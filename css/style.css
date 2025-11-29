@@ -288,12 +288,15 @@ main {
   text-align: center;
 }
 
+#resultado {
+  display: grid;
+  grid-template-columns: 1fr auto;
+  column-gap: 25px;
+  row-gap: 6px;
+}
+
 .containerResultado {
-  display: flex;
-  justify-content: space-between;
-  gap: 20px;
-  margin-bottom: 5px;
-  flex-direction: row;
+  display: contents;
 }
 
 .resultadoPontuacao {
@@ -309,6 +312,7 @@ main {
 }
 
 .resultadoTitle {
+  grid-column: 1 / -1;
   font-size: 1.2rem;
   font-weight: bold;
   text-align: center;
