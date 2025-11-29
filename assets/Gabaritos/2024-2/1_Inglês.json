@@ -1,5 +1,5 @@
 {
-  "PORTUGUÊS": [
+  "Primeira Língua": [
     {
       "num": 1,
       "props": 5,
@@ -31,7 +31,7 @@
       "soma": 21
     }
   ],
-  "SEGUNDA LÍNGUA": [
+  "Segunda Língua": [
     {
       "num": 7,
       "props": 5,
@@ -53,7 +53,7 @@
       "soma": 56
     }
   ],
-  "MATEMÁTICA": [
+  "Matemática": [
     {
       "num": 11,
       "props": 6,
@@ -80,7 +80,7 @@
       "soma": 66
     }
   ],
-  "BIOLOGIA": [
+  "Biologia": [
     {
       "num": 16,
       "props": 5,
@@ -107,7 +107,7 @@
       "soma": 44
     }
   ],
-  "CIÊNCIAS HUMANAS E SOCIAIS": [
+  "Ciências Humanas": [
     {
       "num": 21,
       "props": 5,
@@ -159,7 +159,7 @@
       "soma": 15
     }
   ],
-  "FÍSICA": [
+  "Física": [
     {
       "num": 31,
       "props": 5,
@@ -186,7 +186,7 @@
       "soma": 10
     }
   ],
-  "QUÍMICA": [
+  "Química": [
     {
       "num": 36,
       "props": 6,

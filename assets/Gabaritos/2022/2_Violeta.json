@@ -1,5 +1,5 @@
 {
-  "CIÊNCIAS HUMANAS E SOCIAIS": [
+  "Ciências Humanas": [
     {
       "num": 1,
       "props": 6,
@@ -101,7 +101,7 @@
       "soma": 99
     }
   ],
-  "FÍSICA": [
+  "Física": [
     {
       "num": 21,
       "props": 6,
@@ -153,7 +153,7 @@
       "soma": 21
     }
   ],
-  "QUÍMICA": [
+  "Química": [
     {
       "num": 31,
       "props": 6,

@@ -1,5 +1,5 @@
 {
-  "PRIMEIRA LÍNGUA": [
+  "Primeira Língua": [
     {
       "num": 1,
       "props": 5,
@@ -61,7 +61,7 @@
       "soma": 36
     }
   ],
-  "SEGUNDA LÍNGUA": [
+  "Segunda Língua": [
     {
       "num": 13,
       "props": 5,
@@ -103,7 +103,7 @@
       "soma": 9
     }
   ],
-  "MATEMÁTICA": [
+  "Matemática": [
     {
       "num": 21,
       "props": 5,
@@ -155,7 +155,7 @@
       "soma": 13
     }
   ],
-  "BIOLOGIA": [
+  "Biologia": [
     {
       "num": 31,
       "props": 7,

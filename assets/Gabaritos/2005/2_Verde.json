@@ -1,5 +1,5 @@
 {
-  "FÍSICA": [
+  "Física": [
     {
       "num": 1,
       "props": 5,
@@ -51,7 +51,7 @@
       "soma": 29
     }
   ],
-  "HISTÓRIA": [
+  "História": [
     {
       "num": 11,
       "props": 4,
@@ -103,7 +103,7 @@
       "soma": 2
     }
   ],
-  "LÍNGUA ESTRANGEIRA": [
+  "Segunda Língua": [
     {
       "num": 21,
       "props": 5,
@@ -155,7 +155,7 @@
       "soma": 2
     }
   ],
-  "LÍNGUA PORTUGUESA": [
+  "Primeira Língua": [
     {
       "num": 31,
       "props": 5,

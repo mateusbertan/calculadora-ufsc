@@ -1,5 +1,5 @@
 {
-  "BIOLOGIA": [
+  "Biologia": [
     {
       "num": 1,
       "props": 7,
@@ -51,7 +51,7 @@
       "soma": 13
     }
   ],
-  "GEOGRAFIA": [
+  "Geografia": [
     {
       "num": 11,
       "props": 6,
@@ -103,7 +103,7 @@
       "soma": 18
     }
   ],
-  "MATEMÁTICA": [
+  "Matemática": [
     {
       "num": 21,
       "props": 4,

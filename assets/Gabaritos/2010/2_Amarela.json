@@ -1,5 +1,5 @@
 {
-  "HISTÓRIA": [
+  "História": [
     {
       "num": 1,
       "props": 6,
@@ -51,7 +51,7 @@
       "soma": 6
     }
   ],
-  "GEOGRAFIA": [
+  "Geografia": [
     {
       "num": 11,
       "props": 5,
@@ -103,7 +103,7 @@
       "soma": 22
     }
   ],
-  "FÍSICA": [
+  "Física": [
     {
       "num": 21,
       "props": 7,
@@ -155,7 +155,7 @@
       "soma": 3
     }
   ],
-  "QUÍMICA": [
+  "Química": [
     {
       "num": 31,
       "props": 7,
