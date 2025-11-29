@@ -3,6 +3,8 @@
  * PMC — Pontuação máxima possível do curso, aplicando-se os pesos definidos no edital
  */
 
+const cursosPath = '/assets/cursos.json';
+
 function NotaFinal() {
   const notaPli = Number(document.getElementById('pli').value.replace(/\D/g, "") / 100);
   const notaSli = Number(document.getElementById('sli').value.replace(/\D/g, "") / 100);
@@ -44,3 +46,5 @@ function NotaFinal() {
       document.getElementById('pontuacaototal').innerHTML = `<b>Pontuação Total:</b> ${pontuacao.toFixed(2).replace('.', ',')}`;
     });
 };
+
+window.NotaFinal = NotaFinal;

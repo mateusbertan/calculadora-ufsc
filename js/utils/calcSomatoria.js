@@ -9,16 +9,16 @@ export default function calcSomatoria(np, soma, gabarito) {
   // Questão anulada
   if (np == 0) return 0;
 
-  // Questão aberta
-  if (np == 1 && soma == gabarito) {
-    return "1,00";
-  } else if (np == 1 && soma !== gabarito) {
-    return "0,00";
-  };
-
   // Dado incorreto
   if (np < 0 | np > 7 | soma <= 0 | soma > 99 | gabarito <= 0 | gabarito > 99) {
     return 1;
+  };
+
+  // Questão aberta
+  if (np == 1 && soma == gabarito) {
+    return {p: '1,00'};
+  } else if (np == 1 && soma !== gabarito) {
+    return {p: '0,00'};
   };
 
   // Acima do limite (pode-se considerar a pontuação como 0 ou erro de validação)

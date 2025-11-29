@@ -24,7 +24,7 @@ document.addEventListener('DOMContentLoaded', () => {
         elementosPeso[i].innerHTML = `<b>${String(peso).replace('.', ',')}</b>`;
       };
 
-      campusSelect.addEventListener("change", () => {
+      campusSelect.addEventListener('change', () => {
         cursoSelect.innerHTML = '';
 
         cursos.forEach(curso => {
@@ -36,7 +36,7 @@ document.addEventListener('DOMContentLoaded', () => {
         atualizarPesos();
       });
 
-      cursoSelect.addEventListener("change", () => {
+      cursoSelect.addEventListener('change', () => {
         atualizarPesos();
       });
 

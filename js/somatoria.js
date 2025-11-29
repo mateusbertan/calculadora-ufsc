@@ -1,18 +1,18 @@
-import calcSomatoria from "./utils/calcSomatoria.js";
+import calcSomatoria from './utils/calcSomatoria.js';
 
 function Somatoria() {
-  const np = Number(document.getElementById("quantidade").value);
-  const soma = Number(document.getElementById("soma").value);
-  const gabarito = Number(document.getElementById("gabarito").value);
+  const np = Number(document.getElementById('quantidade').value);
+  const soma = Number(document.getElementById('soma').value);
+  const gabarito = Number(document.getElementById('gabarito').value);
 
   const resultado = calcSomatoria(np, soma, gabarito);
 
   if (resultado === 1) {
-    return alert("Há algum dado incorreto!");
+    return alert('Há algum dado incorreto!');
   };
 
   if (resultado === 2) {
-    return alert("A soma ou o gabarito estão acima do máximo!");
+    return alert('A soma ou o gabarito estão acima do máximo!');
   };
 
   document.getElementById('pontuacao').innerHTML = `<b>Pontuação:</b> ${resultado.p.replace('.', ',')}`;
