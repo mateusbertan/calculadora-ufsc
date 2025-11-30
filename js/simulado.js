@@ -38,15 +38,15 @@ function Simular() {
   inputsContainer.innerHTML = '';
   resultContainer.innerHTML = '';
 
-  resultContainer.innerHTML += `
-    <section class="resultadoTitle">
-      <p>Pontuação:</p>
-    </section>
-  `;
-
   fetch(`${gabaritoPath}/${anoProva.replace('/', '-')}/${diaProva}_${modeloProva}.json`)
     .then(response => response.json())
     .then(json => {
+      resultContainer.innerHTML += `
+        <section class="resultadoTitle">
+          <p>Pontuação:</p>
+        </section>
+      `;
+
       Object.keys(json).forEach(disciplina => {
 
         let blocoDisciplina = document.createElement('section');
