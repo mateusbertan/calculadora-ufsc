@@ -1,0 +1,105 @@
+@charset "UTF-8";
+
+.input-span {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.input-span input {
+  flex: 1;
+  padding: 10px;
+  font-size: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  background-color: #fafafa;
+}
+
+.input-span input:focus {
+  border-color: var(--cor-primaria);
+  background-color: #fff;
+  outline: none;
+}
+
+.header {
+  display: grid;
+  grid-template-columns: 1fr 140px 60px;
+  align-items: center;
+  gap: 10px;
+  font-weight: bold;
+  margin-top: 20px;
+  padding: 5px 0;
+  border-bottom: 1px solid #ccc;
+  color: var(--cor-primaria);
+}
+
+.header .center {
+  text-align: center;
+}
+
+.disciplina {
+  display: grid;
+  grid-template-columns: 1fr 140px 60px;
+  align-items: center;
+}
+
+@media (max-width: 380px) {
+  .disciplina {
+    grid-template-columns: 1fr 110px 50px;
+  }
+
+  .header {
+    grid-template-columns: 1fr 130px 50px;
+    gap: 0;
+  }
+}
+
+.disciplina label {
+  color: #555;
+}
+
+.disciplina input[type="text"] {
+  width: 100%;
+  padding: 10px;
+  font-size: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  background-color: #fafafa;
+}
+
+.disciplina input[type="text"]:focus {
+  border-color: var(--cor-primaria);
+  background-color: #fff;
+  outline: none;
+}
+
+.disciplina .peso,
+.nota-maxima {
+  text-align: center;
+  font-size: 0.95rem;
+  color: #777;
+}
+
+.nota-maxima {
+  white-space: nowrap;
+}
+
+.campus,
+.curso {
+  margin-bottom: 20px;
+  display: inline-block;
+  width: 100%;
+  vertical-align: top;
+}
+
+.curso {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.campo {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}

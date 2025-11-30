@@ -23,9 +23,11 @@ function atualizarResultadoDisciplina(element) {
   if (resDisciplina) {
     resDisciplina.innerHTML = total.toFixed(2).replace('.', ',');
   }
-}
+};
 
 function Simular() {
+  event.preventDefault();
+
   const anoProva = document.getElementById('ano').value;
   const diaProva = document.getElementById('dia').value;
   const modeloProva = document.getElementById('modelo').value
@@ -149,4 +151,8 @@ function Simular() {
     });
 };
 
-window.Simular = Simular;
+document.addEventListener('DOMContentLoaded', () => {
+  const form = document.getElementById('form-simulado');
+
+  form.addEventListener('submit', Simular);
+});

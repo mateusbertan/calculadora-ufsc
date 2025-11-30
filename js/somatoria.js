@@ -1,6 +1,8 @@
 import calcSomatoria from './utils/calcSomatoria.js';
 
 function Somatoria() {
+  event.preventDefault();
+
   const np = Number(document.getElementById('quantidade').value);
   const soma = Number(document.getElementById('soma').value);
   const gabarito = Number(document.getElementById('gabarito').value);
@@ -21,4 +23,8 @@ function Somatoria() {
   document.getElementById('assinaladas').innerHTML = `<b>Assinaladas:</b> ${resultado.assinaladas.join(',&thinsp;')}`;
 };
 
-window.Somatoria = Somatoria;
+document.addEventListener('DOMContentLoaded', () => {
+  const form = document.getElementById('form-somatoria');
+
+  form.addEventListener('submit', Somatoria);
+});

@@ -6,11 +6,12 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="Site simples para calcular a nota final do vestibular da UFSC.">
   <title>Nota Final UFSC</title>
-  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/main.css">
+  <link rel="stylesheet" href="css/notafinal.css">
   <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
   <script type="module" src="js/utils/inputMasks.js"></script>
-  <script src="js/utils/cursos.js"></script>
   <script type="module" src="js/notafinal.js"></script>
+  <script src="js/utils/cursos.js"></script>
 </head>
 
 <body>
@@ -31,8 +32,8 @@
     <section class="title">
       <h1>Calcular Nota Final UFSC</h1>
     </section>
-    <section class="dados dadosnotafinal">
-      <form class="form" action="javascript:NotaFinal()">
+    <section class="dados notaFinalContainer">
+      <form class="form" id="form-notafinal">
         <section class="curso">
           <section class="campo">
             <label for="campus">Campus:</label>

@@ -6,6 +6,8 @@
 const cursosPath = '/assets/cursos.json';
 
 function NotaFinal() {
+  event.preventDefault();
+
   const notaPli = Number(document.getElementById('pli').value.replace(/\D/g, "") / 100);
   const notaSli = Number(document.getElementById('sli').value.replace(/\D/g, "") / 100);
   const notaMtm = Number(document.getElementById('mtm').value.replace(/\D/g, "") / 100);
@@ -47,4 +49,8 @@ function NotaFinal() {
     });
 };
 
-window.NotaFinal = NotaFinal;
+document.addEventListener('DOMContentLoaded', () => {
+  const form = document.getElementById('form-notafinal');
+
+  form.addEventListener('submit', NotaFinal);
+});
