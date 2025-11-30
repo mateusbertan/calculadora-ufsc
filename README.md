@@ -1,6 +1,6 @@
 # Calculadora UFSC
 
-Site com o objetivo de facilitar cálculos relacionados ao vestibular da UFSC, como a pontuação de questões do tipo somatória e a nota final do candidato levando em consideração o peso das disciplinas.
+Site com o objetivo de facilitar cálculos relacionados ao vestibular da UFSC, como a pontuação de questões do tipo somatória, a nota final do candidato levando em consideração o peso das disciplinas e simulação de provas anteriores.
 
 ### Somatória
 
@@ -21,7 +21,7 @@ NPI — Número de proposições incorretas consideradas corretas pelo candidato
 
 > Obs.: A pontuação da questão é expressa com duas casas decimais, com arredondamento na segunda casa decimal.
 
-### Nota final
+### Nota Final
 
 O cálculo da nota final, considerando o peso de cada disciplina para o curso escolhido, é dado pela fórmula:
 

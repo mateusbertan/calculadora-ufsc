@@ -1,0 +1,106 @@
+{
+  "Segunda Língua": [
+    {
+      "num": 1,
+      "props": 5,
+      "soma": 15
+    },
+    {
+      "num": 2,
+      "props": 6,
+      "soma": 3
+    },
+    {
+      "num": 3,
+      "props": 7,
+      "soma": 70
+    },
+    {
+      "num": 4,
+      "props": 4,
+      "soma": 14
+    },
+    {
+      "num": 5,
+      "props": 7,
+      "soma": 16
+    },
+    {
+      "num": 6,
+      "props": 5,
+      "soma": 15
+    },
+    {
+      "num": 7,
+      "props": 4,
+      "soma": 7
+    },
+    {
+      "num": 8,
+      "props": 5,
+      "soma": 1
+    },
+    {
+      "num": 9,
+      "props": 5,
+      "soma": 23
+    },
+    {
+      "num": 10,
+      "props": 4,
+      "soma": 10
+    }
+  ],
+  "Primeira Língua": [
+    {
+      "num": 11,
+      "props": 6,
+      "soma": 39
+    },
+    {
+      "num": 12,
+      "props": 6,
+      "soma": 52
+    },
+    {
+      "num": 13,
+      "props": 7,
+      "soma": 31
+    },
+    {
+      "num": 14,
+      "props": 6,
+      "soma": 27
+    },
+    {
+      "num": 15,
+      "props": 5,
+      "soma": 13
+    },
+    {
+      "num": 16,
+      "props": 6,
+      "soma": 43
+    },
+    {
+      "num": 17,
+      "props": 5,
+      "soma": 3
+    },
+    {
+      "num": 18,
+      "props": 6,
+      "soma": 19
+    },
+    {
+      "num": 19,
+      "props": 6,
+      "soma": 54
+    },
+    {
+      "num": 20,
+      "props": 6,
+      "soma": 38
+    }
+  ]
+}

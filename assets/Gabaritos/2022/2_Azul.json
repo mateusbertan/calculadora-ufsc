@@ -1,0 +1,208 @@
+{
+  "Ciências Humanas": [
+    {
+      "num": 1,
+      "props": 6,
+      "soma": 24
+    },
+    {
+      "num": 2,
+      "props": 6,
+      "soma": 2
+    },
+    {
+      "num": 3,
+      "props": 6,
+      "soma": 14
+    },
+    {
+      "num": 4,
+      "props": 6,
+      "soma": 36
+    },
+    {
+      "num": 5,
+      "props": 7,
+      "soma": 65
+    },
+    {
+      "num": 6,
+      "props": 6,
+      "soma": 18
+    },
+    {
+      "num": 7,
+      "props": 5,
+      "soma": 3
+    },
+    {
+      "num": 8,
+      "props": 5,
+      "soma": 12
+    },
+    {
+      "num": 9,
+      "props": 5,
+      "soma": 11
+    },
+    {
+      "num": 10,
+      "props": 5,
+      "soma": 5
+    },
+    {
+      "num": 11,
+      "props": 5,
+      "soma": 6
+    },
+    {
+      "num": 12,
+      "props": 7,
+      "soma": 74
+    },
+    {
+      "num": 13,
+      "props": 6,
+      "soma": 20
+    },
+    {
+      "num": 14,
+      "props": 5,
+      "soma": 17
+    },
+    {
+      "num": 15,
+      "props": 6,
+      "soma": 44
+    },
+    {
+      "num": 16,
+      "props": 6,
+      "soma": 39
+    },
+    {
+      "num": 17,
+      "props": 5,
+      "soma": 9
+    },
+    {
+      "num": 18,
+      "props": 5,
+      "soma": 24
+    },
+    {
+      "num": 19,
+      "props": 6,
+      "soma": 50
+    },
+    {
+      "num": 20,
+      "props": 7,
+      "soma": 75
+    }
+  ],
+  "Física": [
+    {
+      "num": 21,
+      "props": 6,
+      "soma": 38
+    },
+    {
+      "num": 22,
+      "props": 5,
+      "soma": 12
+    },
+    {
+      "num": 23,
+      "props": 6,
+      "soma": 22
+    },
+    {
+      "num": 24,
+      "props": 6,
+      "soma": 49
+    },
+    {
+      "num": 25,
+      "props": 6,
+      "soma": 52
+    },
+    {
+      "num": 26,
+      "props": 6,
+      "soma": 26
+    },
+    {
+      "num": 27,
+      "props": 6,
+      "soma": 21
+    },
+    {
+      "num": 28,
+      "props": 6,
+      "soma": 7
+    },
+    {
+      "num": 29,
+      "props": 5,
+      "soma": 10
+    },
+    {
+      "num": 30,
+      "props": 5,
+      "soma": 19
+    }
+  ],
+  "Química": [
+    {
+      "num": 31,
+      "props": 6,
+      "soma": 32
+    },
+    {
+      "num": 32,
+      "props": 5,
+      "soma": 5
+    },
+    {
+      "num": 33,
+      "props": 6,
+      "soma": 41
+    },
+    {
+      "num": 34,
+      "props": 6,
+      "soma": 34
+    },
+    {
+      "num": 35,
+      "props": 6,
+      "soma": 33
+    },
+    {
+      "num": 36,
+      "props": 7,
+      "soma": 65
+    },
+    {
+      "num": 37,
+      "props": 5,
+      "soma": 9
+    },
+    {
+      "num": 38,
+      "props": 6,
+      "soma": 42
+    },
+    {
+      "num": 39,
+      "props": 6,
+      "soma": 20
+    },
+    {
+      "num": 40,
+      "props": 5,
+      "soma": 17
+    }
+  ]
+}

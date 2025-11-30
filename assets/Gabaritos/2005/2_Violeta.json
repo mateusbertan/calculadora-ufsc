@@ -1,0 +1,210 @@
+{
+  "Física": [
+    {
+      "num": 1,
+      "props": 5,
+      "soma": 15
+    },
+    {
+      "num": 2,
+      "props": 6,
+      "soma": 42
+    },
+    {
+      "num": 3,
+      "props": 6,
+      "soma": 54
+    },
+    {
+      "num": 4,
+      "props": 6,
+      "soma": 34
+    },
+    {
+      "num": 5,
+      "props": 5,
+      "soma": 28
+    },
+    {
+      "num": 6,
+      "props": 5,
+      "soma": 29
+    },
+    {
+      "num": 7,
+      "props": 5,
+      "soma": 31
+    },
+    {
+      "num": 8,
+      "props": 4,
+      "soma": 14
+    },
+    {
+      "num": 9,
+      "props": 6,
+      "soma": 38
+    },
+    {
+      "num": 10,
+      "props": 5,
+      "soma": 27
+    }
+  ],
+  "História": [
+    {
+      "num": 11,
+      "props": 4,
+      "soma": 6
+    },
+    {
+      "num": 12,
+      "props": 5,
+      "soma": 23
+    },
+    {
+      "num": 13,
+      "props": 5,
+      "soma": 27
+    },
+    {
+      "num": 14,
+      "props": 5,
+      "soma": 7
+    },
+    {
+      "num": 15,
+      "props": 5,
+      "soma": 22
+    },
+    {
+      "num": 16,
+      "props": 6,
+      "soma": 31
+    },
+    {
+      "num": 17,
+      "props": 4,
+      "soma": 11
+    },
+    {
+      "num": 18,
+      "props": 5,
+      "soma": 30
+    },
+    {
+      "num": 19,
+      "props": 5,
+      "soma": 15
+    },
+    {
+      "num": 20,
+      "props": 5,
+      "soma": 16
+    }
+  ],
+  "Segunda Língua": [
+    {
+      "num": 21,
+      "props": 6,
+      "soma": 50
+    },
+    {
+      "num": 22,
+      "props": 6,
+      "soma": 53
+    },
+    {
+      "num": 23,
+      "props": 6,
+      "soma": 42
+    },
+    {
+      "num": 24,
+      "props": 5,
+      "soma": 14
+    },
+    {
+      "num": 25,
+      "props": 5,
+      "soma": 17
+    },
+    {
+      "num": 26,
+      "props": 6,
+      "soma": 7
+    },
+    {
+      "num": 27,
+      "props": 6,
+      "soma": 33
+    },
+    {
+      "num": 28,
+      "props": 7,
+      "soma": 43
+    },
+    {
+      "num": 29,
+      "props": 6,
+      "soma": 25
+    },
+    {
+      "num": 30,
+      "props": 6,
+      "soma": 44
+    }
+  ],
+  "Primeira Língua": [
+    {
+      "num": 31,
+      "props": 5,
+      "soma": 19
+    },
+    {
+      "num": 32,
+      "props": 5,
+      "soma": 31
+    },
+    {
+      "num": 33,
+      "props": 5,
+      "soma": 27
+    },
+    {
+      "num": 34,
+      "props": 5,
+      "soma": 15
+    },
+    {
+      "num": 35,
+      "props": 6,
+      "soma": 47
+    },
+    {
+      "num": 36,
+      "props": 4,
+      "soma": 11
+    },
+    {
+      "num": 37,
+      "props": 5,
+      "soma": 15
+    },
+    {
+      "num": 38,
+      "props": 5,
+      "soma": 28
+    },
+    {
+      "num": 39,
+      "props": 5,
+      "soma": 30
+    },
+    {
+      "num": 40,
+      "props": 5,
+      "soma": 29
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Site simples para simular a prova do vestibular da UFSC.">
+  <title>Simulado UFSC</title>
+  <link rel="stylesheet" href="css/main.css">
+  <link rel="stylesheet" href="css/simulado.css">
+  <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+  <script type="module" src="js/utils/inputMasks.js"></script>
+  <script type="module" src="js/utils/provas.js"></script>
+  <script type="module" src="js/simulado.js"></script>
+</head>
+
+<body>
+  <nav>
+    <ul>
+      <li>
+        <a href="/">Somatória</a>
+      </li>
+      <li>
+        <a href="/notafinal.html">Nota Final</a>
+      </li>
+      <li>
+        <a href="/simulado.html">Simulado</a>
+      </li>
+    </ul>
+  </nav>
+  <main>
+    <section class="title">
+      <h1>Simular Vestibular UFSC</h1>
+    </section>
+    <section class="dados">
+      <form id="form-simulado">
+        <section class="prova">
+          <section class="campo">
+            <label for="ano">Ano:</label>
+            <select id="ano"></select>
+          </section>
+          <section class="campo">
+            <label for="dia">Dia:</label>
+            <select id="dia"></select>
+          </section>
+          <section class="campo">
+            <label for="modelo">Modelo:</label>
+            <select id="modelo"></select>
+          </section>
+        </section>
+        <input class="submit" type="submit" value="Simular">
+      </form>
+    </section>
+    <section id="inputs" class="inputContainer">
+    </section>
+    <section id="resultado">
+    </section>
+  </main>
+  <footer>
+    <p>Desenvolvido por <a href="https://github.com/mateusbertan" target="_blank">Mateus Bertan</a></p>
+  </footer>
+</body>
+
+</html>
