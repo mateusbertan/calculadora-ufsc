@@ -351,5 +351,24 @@
       "Verde",
       "Violeta"
     ]
+  },
+  "2026": {
+    "1": [
+      "Amarela",
+      "Azul",
+      "Cinza",
+      "Laranja",
+      "Marfim",
+      "Marrom",
+      "Rosa",
+      "Verde",
+      "Violeta"
+    ],
+    "2": [
+      "Amarela",
+      "Azul",
+      "Verde",
+      "Violeta"
+    ]
   }
 }

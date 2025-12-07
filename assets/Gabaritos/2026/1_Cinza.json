@@ -1,0 +1,210 @@
+{
+  "Primeira Língua": [
+    {
+      "num": 1,
+      "props": 7,
+      "soma": 90
+    },
+    {
+      "num": 2,
+      "props": 7,
+      "soma": 21
+    },
+    {
+      "num": 3,
+      "props": 6,
+      "soma": 51
+    },
+    {
+      "num": 4,
+      "props": 5,
+      "soma": 22
+    },
+    {
+      "num": 5,
+      "props": 5,
+      "soma": 7
+    },
+    {
+      "num": 6,
+      "props": 7,
+      "soma": 46
+    },
+    {
+      "num": 7,
+      "props": 6,
+      "soma": 28
+    },
+    {
+      "num": 8,
+      "props": 7,
+      "soma": 37
+    },
+    {
+      "num": 9,
+      "props": 7,
+      "soma": 73
+    },
+    {
+      "num": 10,
+      "props": 6,
+      "soma": 19
+    },
+    {
+      "num": 11,
+      "props": 6,
+      "soma": 13
+    },
+    {
+      "num": 12,
+      "props": 7,
+      "soma": 86
+    }
+  ],
+  "Segunda Língua": [
+    {
+      "num": 13,
+      "props": 6,
+      "soma": 30
+    },
+    {
+      "num": 14,
+      "props": 4,
+      "soma": 3
+    },
+    {
+      "num": 15,
+      "props": 6,
+      "soma": 15
+    },
+    {
+      "num": 16,
+      "props": 7,
+      "soma": 62
+    },
+    {
+      "num": 17,
+      "props": 6,
+      "soma": 42
+    },
+    {
+      "num": 18,
+      "props": 5,
+      "soma": 21
+    },
+    {
+      "num": 19,
+      "props": 5,
+      "soma": 24
+    },
+    {
+      "num": 20,
+      "props": 7,
+      "soma": 60
+    }
+  ],
+  "Matemática": [
+    {
+      "num": 21,
+      "props": 5,
+      "soma": 7
+    },
+    {
+      "num": 22,
+      "props": 5,
+      "soma": 25
+    },
+    {
+      "num": 23,
+      "props": 4,
+      "soma": 14
+    },
+    {
+      "num": 24,
+      "props": 5,
+      "soma": 13
+    },
+    {
+      "num": 25,
+      "props": 6,
+      "soma": 29
+    },
+    {
+      "num": 26,
+      "props": 1,
+      "soma": 63
+    },
+    {
+      "num": 27,
+      "props": 5,
+      "soma": 26
+    },
+    {
+      "num": 28,
+      "props": 5,
+      "soma": 7
+    },
+    {
+      "num": 29,
+      "props": 7,
+      "soma": 92
+    },
+    {
+      "num": 30,
+      "props": 4,
+      "soma": 11
+    }
+  ],
+  "Biologia": [
+    {
+      "num": 31,
+      "props": 7,
+      "soma": 70
+    },
+    {
+      "num": 32,
+      "props": 7,
+      "soma": 53
+    },
+    {
+      "num": 33,
+      "props": 6,
+      "soma": 56
+    },
+    {
+      "num": 34,
+      "props": 6,
+      "soma": 57
+    },
+    {
+      "num": 35,
+      "props": 6,
+      "soma": 35
+    },
+    {
+      "num": 36,
+      "props": 6,
+      "soma": 49
+    },
+    {
+      "num": 37,
+      "props": 6,
+      "soma": 54
+    },
+    {
+      "num": 38,
+      "props": 6,
+      "soma": 21
+    },
+    {
+      "num": 39,
+      "props": 7,
+      "soma": 85
+    },
+    {
+      "num": 40,
+      "props": 6,
+      "soma": 58
+    }
+  ]
+}
