@@ -11,8 +11,8 @@ function NotaFinal() {
   const notaPli = Number(document.getElementById('pli').value.replace(/\D/g, "") / 100);
   const notaSli = Number(document.getElementById('sli').value.replace(/\D/g, "") / 100);
   const notaMtm = Number(document.getElementById('mtm').value.replace(/\D/g, "") / 100);
-  const notaChs = Number(document.getElementById('chs').value.replace(/\D/g, "") / 100);
   const notaBlg = Number(document.getElementById('blg').value.replace(/\D/g, "") / 100);
+  const notaChs = Number(document.getElementById('chs').value.replace(/\D/g, "") / 100);
   const notaFsc = Number(document.getElementById('fsc').value.replace(/\D/g, "") / 100);
   const notaQmc = Number(document.getElementById('qmc').value.replace(/\D/g, "") / 100);
   const notaDsc = Number(document.getElementById('dsc').value.replace(/\D/g, "") / 100);
@@ -33,8 +33,8 @@ function NotaFinal() {
         (notaPli * pesosCurso.pli) +
         (notaSli * pesosCurso.sli) +
         (notaMtm * pesosCurso.mtm) +
-        (notaChs * pesosCurso.chs) +
         (notaBlg * pesosCurso.blg) +
+        (notaChs * pesosCurso.chs) +
         (notaFsc * pesosCurso.fsc) +
         (notaQmc * pesosCurso.qmc) +
         (notaDsc * pesosCurso.dsc) +
@@ -42,7 +42,7 @@ function NotaFinal() {
 
       const nf = (pt * 100) / pmc;
 
-      const pontuacao = notaPli + notaSli + notaMtm + notaChs + notaBlg + notaFsc + notaQmc + notaDsc + notaRdc;
+      const pontuacao = notaPli + notaSli + notaMtm + notaBlg + notaChs + notaFsc + notaQmc + notaDsc + notaRdc;
 
       document.getElementById('notafinal').innerHTML = `<b>Nota Final:</b> ${nf.toFixed(2).replace('.', ',')}`;
       document.getElementById('pontuacaototal').innerHTML = `<b>Pontuação Total:</b> ${pontuacao.toFixed(2).replace('.', ',')}`;
