@@ -124,7 +124,7 @@ label {
 }
 
 .resultado p {
-  font-size: 1.1rem;
+  font-size: 0.9rem;
   margin-bottom: 12px;
   color: var(--cor-texto);
 }
@@ -132,4 +132,5 @@ label {
 #pontuacao,
 #notafinal {
   margin-bottom: 30px;
+  font-size: 1.1rem;
 }
