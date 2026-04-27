@@ -37,18 +37,18 @@ export default function calcSomatoria(np, soma, gabarito) {
   let incorretas = [];
   let assinaladas = [];
 
-  props.forEach((prep) => {
-    if (gabarito >= prep) {
+  props.forEach((prop) => {
+    if (gabarito >= prop) {
       ntpc++;
-      corretas.push(prep);
-      gabarito -= prep;
+      corretas.push(prop);
+      gabarito -= prop;
     } else {
-      incorretas.push(prep);
+      incorretas.push(prop);
     };
 
-    if (soma >= prep) {
-      assinaladas.push(prep);
-      soma -= prep;
+    if (soma >= prop) {
+      assinaladas.push(prop);
+      soma -= prop;
     };
   });
 
