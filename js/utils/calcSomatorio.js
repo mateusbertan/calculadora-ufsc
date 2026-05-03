@@ -5,7 +5,7 @@
  * NPI = Número de proposições incorretas consideradas corretas pelo candidato
  */
 
-export default function calcSomatoria(np, soma, gabarito) {
+export default function calcSomatorio(np, soma, gabarito) {
   // Questão anulada
   if (np == 0) return 0;
 

@@ -1,4 +1,4 @@
-import calcSomatoria from '/js/utils/calcSomatoria.js';
+import calcSomatorio from '/js/utils/calcSomatorio.js';
 import { maskSoma } from '/js/utils/inputMasks.js';
 
 const gabaritoPath = '/assets/Gabaritos';
@@ -124,7 +124,7 @@ function Simular() {
             return;
           };
 
-          const resultado = calcSomatoria(
+          const resultado = calcSomatorio(
             Number(element.getAttribute("np")),
             Number(element.value),
             Number(element.getAttribute("gab"))

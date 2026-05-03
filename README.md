@@ -1,10 +1,10 @@
 # Calculadora UFSC
 
-Site com o objetivo de facilitar cálculos relacionados ao vestibular da UFSC, como a pontuação de questões do tipo somatória, a nota final do candidato levando em consideração o peso das disciplinas e simulação de provas anteriores.
+Site com o objetivo de facilitar cálculos relacionados ao vestibular da UFSC, como a pontuação de questões do tipo somatório, a nota final do candidato levando em consideração o peso das disciplinas e simulação de provas anteriores.
 
-### Somatória
+### Somatório
 
-O cálculo da pontuação de questões do tipo somatória segue a seguinte fórmula:
+O cálculo da pontuação de questões do tipo somatório segue a seguinte fórmula:
 
 Se $NPC > NPI$
 

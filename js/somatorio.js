@@ -1,13 +1,13 @@
-import calcSomatoria from './utils/calcSomatoria.js';
+import calcSomatorio from './utils/calcSomatorio.js';
 
-function Somatoria() {
+function Somatorio() {
   event.preventDefault();
 
   const np = Number(document.getElementById('quantidade').value);
   const soma = Number(document.getElementById('soma').value);
   const gabarito = Number(document.getElementById('gabarito').value);
 
-  const resultado = calcSomatoria(np, soma, gabarito);
+  const resultado = calcSomatorio(np, soma, gabarito);
 
   if (resultado === 1) {
     return alert('Há algum dado incorreto!');
@@ -24,7 +24,7 @@ function Somatoria() {
 };
 
 document.addEventListener('DOMContentLoaded', () => {
-  const form = document.getElementById('form-somatoria');
+  const form = document.getElementById('form-somatorio');
 
-  form.addEventListener('submit', Somatoria);
+  form.addEventListener('submit', Somatorio);
 });
