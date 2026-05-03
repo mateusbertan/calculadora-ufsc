@@ -18,8 +18,8 @@ function Somatoria() {
   };
 
   document.getElementById('pontuacao').innerHTML = `<b>Pontuação:</b> ${resultado.p.replace('.', ',')}`;
-  document.getElementById('corretas').innerHTML = `<b>Corretas:</b> ${resultado.corretas.join(',&thinsp;')}`;
-  document.getElementById('incorretas').innerHTML = `<b>Incorretas:</b> ${resultado.incorretas.join(',&thinsp;')}`;
+  document.getElementById('corretas').innerHTML = resultado.corretas.length > 0 ? `<b>Corretas:</b> ${resultado.corretas.join(',&thinsp;')}` : '';
+  document.getElementById('incorretas').innerHTML = resultado.incorretas.length > 0 ? `<b>Incorretas:</b> ${resultado.incorretas.join(',&thinsp;')}` : '';
   document.getElementById('assinaladas').innerHTML = `<b>Assinaladas:</b> ${resultado.assinaladas.join(',&thinsp;')}`;
 };
 
