@@ -48,7 +48,7 @@ function Simular() {
       `;
 
       Object.keys(json).forEach(disciplina => {
-
+        let anuladas = 0;
         let blocoDisciplina = document.createElement('section');
         blocoDisciplina.classList.add('disciplinaContainer');
         blocoDisciplina.id = disciplina;
@@ -66,6 +66,15 @@ function Simular() {
         `;
 
         json[disciplina].forEach(questao => {
+          if (questao.props == 0) {
+            anuladas++;
+            blocoDisciplina.innerHTML += `
+              <section class="questao anulada" id="q${questao.num}">
+                <section class="num">${questao.num}</section>
+                <p>ANULADA</p>
+              `;
+            return;
+          };
 
           blocoDisciplina.innerHTML += `
             <section class="questao" id="q${questao.num}">
@@ -104,7 +113,7 @@ function Simular() {
             <p class="resultadoDisciplina">${disciplina}:</p>
             <section class="resultadoPontuacao">
               <p id="resultado_${disciplina}">0,00</p>
-              <p class="resultadoPontos">/${json[disciplina].length}pts</p>
+              <p class="resultadoPontos">/${json[disciplina].length - anuladas}pts</p>
             </section>
           </section>
         `;

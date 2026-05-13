@@ -32,6 +32,15 @@
   align-items: center;
 }
 
+.anulada {
+  grid-template-columns: 15% 85%;
+}
+
+.anulada p {
+  text-align: center;
+  padding: 10px;
+}
+
 .questoesHeader p {
   font-size: 0.9rem;
   text-align: center;
